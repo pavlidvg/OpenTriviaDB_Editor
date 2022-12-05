@@ -1,0 +1,593 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": [
+        "Helium",
+        "Carbon",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A person can get sunburned on a cloudy day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which is the chemical name of H2O?",
+      "correct_answer": "Dihydrogen Monoxide",
+      "incorrect_answers": [
+        "Ammonium chloride",
+        "Anhydrous Sodium Carbonate",
+        "Manganese dioxide"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which type of rock is created by intense heat AND pressure?",
+      "correct_answer": "Metamorphic",
+      "incorrect_answers": [
+        "Sedimentary",
+        "Igneous",
+        "Diamond"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the elemental symbol for mercury?",
+      "correct_answer": "Hg",
+      "incorrect_answers": [
+        "Me",
+        "Mc",
+        "Hy"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": [
+        "Kidney",
+        "Liver",
+        "Brain"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many planets are in our Solar System?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Nine",
+        "Seven",
+        "Ten"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The planet Mars has two moons orbiting it.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+      "correct_answer": "Gale",
+      "incorrect_answers": [
+        "Storm",
+        "Hurricane",
+        "Breeze"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": [
+        "Oxygen",
+        "Argon",
+        "Carbon Dioxide"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the molecular formula of Glucose?",
+      "correct_answer": "C6H12O6",
+      "incorrect_answers": [
+        "C2H4O2",
+        "K+",
+        "CH4"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Au on the Periodic Table refers to which element?",
+      "correct_answer": "Gold",
+      "incorrect_answers": [
+        "Silver",
+        "Oxygen",
+        "Nickel"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+      "correct_answer": "Haplogroup U",
+      "incorrect_answers": [
+        "Haplogroup L",
+        "Haplogroup T",
+        "Haplogroup J"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+      "correct_answer": "low, all",
+      "incorrect_answers": [
+        "low, some",
+        "high, all",
+        "high, some"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which horizon in a soil profile consists of bedrock?",
+      "correct_answer": "R",
+      "incorrect_answers": [
+        "O",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the chemical formula for ammonia?",
+      "correct_answer": "NH3",
+      "incorrect_answers": [
+        "CO2",
+        "NO3",
+        "CH4"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the atomic number of the element Strontium?",
+      "correct_answer": "38",
+      "incorrect_answers": [
+        "73",
+        "47",
+        "11"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+      "correct_answer": "The coma",
+      "incorrect_answers": [
+        "The wake",
+        "The backwash",
+        "The ablative"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": [
+        "Helium",
+        "Lithium",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The core of the Sun can reach which temperature?",
+      "correct_answer": "27&deg; Million F (15&deg; Million C)",
+      "incorrect_answers": [
+        "938,000&deg; F (521093.3&deg; C)",
+        "8&deg; Billion F (&deg;4.4 Billion C)",
+        "Absolute Zero (Both F and C)"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which element has the highest melting point?",
+      "correct_answer": "Carbon",
+      "incorrect_answers": [
+        "Tungsten",
+        "Platinum",
+        "Osmium"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Deuterium is an isotope of which element?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": [
+        "Nitrogen",
+        "Helium",
+        "Neon"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A positron is an antiparticle of a what?",
+      "correct_answer": "Electron",
+      "incorrect_answers": [
+        "Neutron",
+        "Proton",
+        "Photon"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who made the discovery of X-rays?",
+      "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+      "incorrect_answers": [
+        "Thomas Alva Edison",
+        "James Watt",
+        "Albert Einstein"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "71% of the Earth&#039;s surface is made up of",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Deserts",
+        "Continents",
+        "Forests"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the same in Celsius and Fahrenheit?",
+      "correct_answer": "-40",
+      "incorrect_answers": [
+        "32",
+        "-39",
+        "-42"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does LASER stand for?",
+      "correct_answer": "Light amplification by stimulated emission of radiation",
+      "incorrect_answers": [
+        "Lite analysing by stereo ecorazer",
+        "Light amplifier by standby energy of radio",
+        "Life antimatter by standing entry of range"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The chemical element Lithium is named after the country of Lithuania.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the unit of electrical inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": [
+        "Weber",
+        "Coulomb",
+        "Mho"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a word used to describe an earthquake?",
+      "correct_answer": "Drop-slide",
+      "incorrect_answers": [
+        "Foreshock",
+        "Strike-slip",
+        "Temblor"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?",
+      "correct_answer": "Esteem",
+      "incorrect_answers": [
+        "Love",
+        "Safety",
+        "Physiological"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Sun consists of mostly which two elements?",
+      "correct_answer": "Hydrogen &amp; Helium",
+      "incorrect_answers": [
+        "Hydrogen &amp; Nitrogen",
+        "Carbon &amp; Nitrogen",
+        "Carbon &amp; Helium"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where is the Gluteus Maximus muscle located?",
+      "correct_answer": "Butt",
+      "incorrect_answers": [
+        "Arm",
+        "Head",
+        "Torso"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Coulrophobia is the irrational fear of what?",
+      "correct_answer": "Clowns",
+      "incorrect_answers": [
+        "Cemeteries",
+        "Needles",
+        "Tunnels"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Western Lowland Gorilla is scientifically know as?",
+      "correct_answer": "Gorilla Gorilla Gorilla",
+      "incorrect_answers": [
+        "Gorilla Gorilla Diehli",
+        "Gorilla Beringei Graueri",
+        "Gorilla Beringei Beringei"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which noble gas has the lowest atomic number?",
+      "correct_answer": "Helium",
+      "incorrect_answers": [
+        "Neon",
+        "Argon",
+        "Krypton"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+      "correct_answer": "Light",
+      "incorrect_answers": [
+        "Water",
+        "Trees",
+        "Pollen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The most frequent subconscious activity repeated by the human body is blinking.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which scientific unit is named after an Italian nobleman?",
+      "correct_answer": "Volt",
+      "incorrect_answers": [
+        "Pascal",
+        "Ohm",
+        "Hertz"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the official name of the star located closest to the North Celestial Pole?",
+      "correct_answer": "Polaris",
+      "incorrect_answers": [
+        "Eridanus",
+        "Gamma Cephei",
+        "Iota Cephei"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Deionized water is water with which of the following removed?",
+      "correct_answer": "Iron",
+      "incorrect_answers": [
+        "Oxygen",
+        "Hydrogen",
+        "Uncharged atoms"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+      "correct_answer": "Dunning-Kruger effect",
+      "incorrect_answers": [
+        "Meyers-Briggs effect",
+        "M&uuml;ller-Lyer effect",
+        "Freud-Hall effect"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Hypernatremia?",
+      "correct_answer": "Increase in blood sodium",
+      "incorrect_answers": [
+        "Decrease in blood potassium",
+        "Increase in blood glucose",
+        "Decrease in blood iron"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the smallest blood vessels in the human body?",
+      "correct_answer": "Capillaries",
+      "incorrect_answers": [
+        "Arterioles",
+        "Veinules",
+        "Lymphatics"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following are cells of the adaptive immune system?",
+      "correct_answer": "Cytotoxic T cells",
+      "incorrect_answers": [
+        "Dendritic cells",
+        "Natural killer cells",
+        "White blood cells"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What causes the sound of a heartbeat?",
+      "correct_answer": "Closure of the heart valves",
+      "incorrect_answers": [
+        "Contraction of the heart chambers",
+        "Blood exiting the heart",
+        "Relaxation of the heart chambers"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+      "correct_answer": "C18H27NO3",
+      "incorrect_answers": [
+        "C21H23NO3",
+        "C6H4Cl2",
+        "C13H25NO4"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+      "correct_answer": "Noether&#039;s Theorem",
+      "incorrect_answers": [
+        "Bell&#039;s Theorem",
+        "Wick&#039;s Theorem",
+        "Carnot&#039;s Theorem"
+      ]
+    }
+  ]
+}

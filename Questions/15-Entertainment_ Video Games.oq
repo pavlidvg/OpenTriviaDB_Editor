@@ -1,0 +1,597 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year was the game Team Fortress 2 released?",
+      "correct_answer": "2007",
+      "incorrect_answers": [
+        "2009",
+        "2005",
+        "2010"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following created and directed the Katamari Damacy series?",
+      "correct_answer": "Keita Takahashi",
+      "incorrect_answers": [
+        "Hideki Kamiya",
+        "Shu Takumi",
+        "Shinji Mikami"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the code name for the &quot;Nintendo Gamecube&quot;?",
+      "correct_answer": "Dolphin",
+      "incorrect_answers": [
+        "Nitro",
+        "Revolution",
+        "Atlantis"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+      "correct_answer": "20,000",
+      "incorrect_answers": [
+        "10,000",
+        "15,000",
+        "25,000"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these video game engines was made by the company Epic Games?",
+      "correct_answer": "Unreal",
+      "incorrect_answers": [
+        "Unity",
+        "Game Maker: Studio",
+        "Cry Engine"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Forza Motorsport 6, which of these track-exclusive cars was NOT featured in the game, either originally with the game or added as DLC?",
+      "correct_answer": "Aston Martin Vulcan",
+      "incorrect_answers": [
+        "Ferrari FXX-K",
+        "McLaren P1 GTR",
+        "Lotus E23"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+      "correct_answer": "Lily of the Valley",
+      "incorrect_answers": [
+        "Hydrangea",
+        "Harebell",
+        "Yarrow"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the Secret Organization in the Hotline Miami series? ",
+      "correct_answer": "50 Blessings",
+      "incorrect_answers": [
+        "American Blessings",
+        "50 Saints",
+        "USSR&#039;s Blessings"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+      "correct_answer": "8 hours",
+      "incorrect_answers": [
+        "4 hours",
+        "12 hours",
+        "5 hours"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",
+      "correct_answer": "Green Flu",
+      "incorrect_answers": [
+        "Yellow Fever",
+        "T-Virus",
+        "Raspberry Sniffles"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the founder of Team Fortress 2&#039;s fictional company &quot;Mann Co&quot;?",
+      "correct_answer": "Zepheniah Mann",
+      "incorrect_answers": [
+        "Cave Johnson",
+        "Wallace Breem",
+        "Saxton Hale"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Call of Duty: United Offensive, what two soldiers share a name of a video game character?",
+      "correct_answer": "Gordon &amp; Freeman",
+      "incorrect_answers": [
+        "Sam &amp; Fisher",
+        "Nathan &amp; Drake",
+        "Dig &amp; Dug"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following characters were considered for inclusion in Super Smash Bros. Melee?",
+      "correct_answer": "Lucas",
+      "incorrect_answers": [
+        "Mega Man",
+        "Meta Knight",
+        "Diddy Kong"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The creator of the Touhou Project series is:",
+      "correct_answer": "ZUN",
+      "incorrect_answers": [
+        "SUN",
+        "RUN",
+        "PUN"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which was the first M-rated video game developed by Squaresoft/Square Enix?",
+      "correct_answer": "Parasite Eve",
+      "incorrect_answers": [
+        "Final Fantasy VIII",
+        "Front Mission",
+        "Vagrant Story"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which company did Bethesda purchase the Fallout Series from?",
+      "correct_answer": "Interplay Entertainment ",
+      "incorrect_answers": [
+        "Capcom",
+        "Blizzard Entertainment",
+        "Nintendo"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+      "correct_answer": "Skeleton",
+      "incorrect_answers": [
+        "Frog",
+        "Horror",
+        "Plant"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Counter Strike: Global Offensive, what is the code implanted onto the C4 as the Terrorists plant the bomb?",
+      "correct_answer": "7355608",
+      "incorrect_answers": [
+        "7890728",
+        "7256380",
+        "7726354"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these songs does NOT play during the Ruins segments of the 2015 game &quot;Undertale&quot;?",
+      "correct_answer": "Another Medium",
+      "incorrect_answers": [
+        "Anticipation",
+        "Unnecessary Tension",
+        "Ruins"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who are the original creators of Rachet &amp; Clank?",
+      "correct_answer": "Insomniac Games",
+      "incorrect_answers": [
+        "PixelTail Games",
+        "Rare",
+        "Bethesda"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
+      "correct_answer": "Dragon King: The Fighting Game",
+      "incorrect_answers": [
+        "Nintendo Legends: Fight!",
+        "Martial Arts: King of the Hill",
+        "Aerial Warriors: Supreme Battle"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The default playermodel of Garry&#039;s Mod is this Half Life 2 character.",
+      "correct_answer": "Isaac Kleiner",
+      "incorrect_answers": [
+        "G-Man",
+        "Alyx Vance",
+        "Gordon Freeman"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+      "correct_answer": "Cicero",
+      "incorrect_answers": [
+        "Lucien Lachance",
+        "Archimedes",
+        "Astrid"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following has Jennifer Taylor NOT voiced?",
+      "correct_answer": "Sarah Kerrigan",
+      "incorrect_answers": [
+        "Princess Peach",
+        "Zoey",
+        "Cortana"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many voice channels does the Nintendo Entertainment System support natively?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?",
+      "correct_answer": "Delirium",
+      "incorrect_answers": [
+        "Mega Satan",
+        "Hush",
+        "The Lamb"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first weapon pack for &quot;PAYDAY 2&quot;?",
+      "correct_answer": "The Gage Weapon Pack #1",
+      "incorrect_answers": [
+        "The Overkill Pack",
+        "The Gage Chivalry Pack",
+        "The Gage Historical Pack"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+      "correct_answer": "By clearing every 7th episode",
+      "incorrect_answers": [
+        "By obtaining 70 Shines",
+        "By clearing every episode involving a &quot;Secret&quot;",
+        "By unlocking every nozzle F.L.U.D.D can use"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which location does Dark Sun Gwyndolin reside in &quot;Dark Souls&quot;?",
+      "correct_answer": "Anor Londo",
+      "incorrect_answers": [
+        "Firelink Shrine",
+        "Blighttown",
+        "Kiln of the first flame"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+      "correct_answer": "Nathan Steele",
+      "incorrect_answers": [
+        "Nate Siemens",
+        "Nick Stamos",
+        "Nolan Stuhlinger"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the machine that upgrades weapons?",
+      "correct_answer": "Pack-A-Punch",
+      "incorrect_answers": [
+        "Wunderfizz",
+        "Gersch Device",
+        "Mule Kick"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+      "correct_answer": "31-79 JGb215",
+      "incorrect_answers": [
+        "Sliquifier",
+        "V-R11",
+        "Wunderwaffe DG-2"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?",
+      "correct_answer": "HRL-7",
+      "incorrect_answers": [
+        "Heavy Crossbow",
+        "Thanatos .50 cal",
+        "Broomstick Pistol"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+      "correct_answer": "Hudson Mohawke",
+      "incorrect_answers": [
+        "Rustie",
+        "Machinedrum",
+        "Flying Lotus"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+      "correct_answer": "Arcane + Shield",
+      "incorrect_answers": [
+        "Lightning + Shield",
+        "Lightning + Life",
+        "Arcane + Life"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Pok&eacute;mon Sun and Moon&quot;, Team Skull took over which town?",
+      "correct_answer": "Po Town",
+      "incorrect_answers": [
+        "Heahea City",
+        "Tapu Village",
+        "Iki Town"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In the Season One Championship of &quot;League of Legends&quot;, the highest achievable rank was Diamond.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Portal, what color is the Morality Core?",
+      "correct_answer": "Purple",
+      "incorrect_answers": [
+        "Red",
+        "Yellow",
+        "Blue"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?",
+      "correct_answer": "Michael Jackson ",
+      "incorrect_answers": [
+        "Prince",
+        "George Michael",
+        "Vanilla Ice "
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What character is NOT apart of the Grand Theft Auto series?",
+      "correct_answer": "Michael Cardenas",
+      "incorrect_answers": [
+        "Packie McReary",
+        "Tommy Vercetti",
+        "Lester Crest"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+      "correct_answer": "Night Trap",
+      "incorrect_answers": [
+        "Sewer Shark",
+        "The Daedalus Encounter",
+        "Corpse Killer"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Overwatch, what is L&uacute;cio&#039;s full name?",
+      "correct_answer": "L&uacute;cio Correia Dos Santos",
+      "incorrect_answers": [
+        "L&uacute;cio Luiz L&oacute;s Guilherme",
+        "L&uacute;cio Jo&atilde;o Lucas",
+        "L&uacute;cio Chupar Prima"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",
+      "correct_answer": "Racing Driver",
+      "incorrect_answers": [
+        "Taxi Driver",
+        "Delivery Driver",
+        "Getaway Driver"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these characters from Final Fantasy VIII primarily spoke in one word sentences?",
+      "correct_answer": "Fujin",
+      "incorrect_answers": [
+        "Raijin",
+        "Seifer",
+        "Zell"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year was the video game streaming platform TwitchTV founded?",
+      "correct_answer": "2011",
+      "incorrect_answers": [
+        "2012",
+        "2010",
+        "2014"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+      "correct_answer": "The bits in the CPU architecture",
+      "incorrect_answers": [
+        "The number of megabytes of RAM",
+        "Capacity of the ROM Cartridges in megabytes",
+        "Clock speed of the CPU in Hertz"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What Ultimate does Makoto Naegi, protagonist of Danganronpa: Trigger Happy Havoc, have? ",
+      "correct_answer": "Ultimate Lucky Student",
+      "incorrect_answers": [
+        "Ultimate Unlucky Student",
+        "Ultimate Detective",
+        "Ultimate Runner"
+      ]
+    }
+  ]
+}

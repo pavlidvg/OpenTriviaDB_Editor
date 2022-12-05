@@ -1,0 +1,575 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+      "correct_answer": "Simien Jackel",
+      "incorrect_answers": [
+        "Ethiopian Coyote",
+        "Amharic Fox",
+        "Canis Simiensis"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+      "correct_answer": "River Horse (Greek)",
+      "incorrect_answers": [
+        "River Horse (Latin)",
+        "Fat Pig (Greek)",
+        "Fat Pig (Latin)"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What type of animal is a natterjack?",
+      "correct_answer": "Toad",
+      "incorrect_answers": [
+        "Bird",
+        "Fish",
+        "Insect"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the fastest  land animal?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": [
+        "Lion",
+        "Thomson&rsquo;s Gazelle",
+        "Pronghorn Antelope"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "An octopus can fit through any hole larger than its beak.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which species of Brown Bear is not extinct?",
+      "correct_answer": "Syrian Brown Bear",
+      "incorrect_answers": [
+        "California Grizzly Bear",
+        "Atlas Bear",
+        "Mexican Grizzly Bear"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What color/colour is a polar bear&#039;s skin?",
+      "correct_answer": "Black",
+      "incorrect_answers": [
+        "White",
+        "Pink",
+        "Green"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Hippocampus is the Latin name for which marine creature?",
+      "correct_answer": "Seahorse",
+      "incorrect_answers": [
+        "Dolphin",
+        "Whale",
+        "Octopus"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Cashmere is the wool from which kind of animal?",
+      "correct_answer": "Goat",
+      "incorrect_answers": [
+        "Sheep",
+        "Camel",
+        "Llama"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Kangaroos keep food in their pouches next to their children.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+      "correct_answer": "Ursus Maritimus",
+      "incorrect_answers": [
+        "Polar Bear",
+        "Ursus Spelaeus",
+        "Ursus Arctos"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many legs do butterflies have?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "0"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many known living species of hyenas are there?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "2",
+        "6"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+      "correct_answer": "Nervousness",
+      "incorrect_answers": [
+        "Excitement",
+        "Aggression",
+        "Exhaustion"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What do you call a baby bat?",
+      "correct_answer": "Pup",
+      "incorrect_answers": [
+        "Cub",
+        "Chick",
+        "Kid"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the scientific name of the cheetah?",
+      "correct_answer": "Acinonyx jubatus",
+      "incorrect_answers": [
+        "Panthera onca",
+        "Lynx rufus",
+        "Felis catus"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which animal was part of an Russian domestication experiment in 1959?",
+      "correct_answer": "Foxes",
+      "incorrect_answers": [
+        "Pigeons",
+        "Bears",
+        "Alligators"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+      "correct_answer": "Tasmania, Australia",
+      "incorrect_answers": [
+        "Baluchistan, Pakistan",
+        "Wallachia, Romania",
+        "Oregon, United States"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the Gray Wolf&#039;s scientific name?",
+      "correct_answer": "Canis Lupus",
+      "incorrect_answers": [
+        "Canis Aureus",
+        "Canis Latrans",
+        "Canis Lupus Lycaon"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Rabbits are rodents.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A flock of crows is known as a homicide.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Platypus is a mammal.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Grumpy Cat&#039;s real name?",
+      "correct_answer": "Tardar Sauce",
+      "incorrect_answers": [
+        "Sauce",
+        "Minnie",
+        "Broccoli"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of creature is a Bonobo?",
+      "correct_answer": "Ape",
+      "incorrect_answers": [
+        "Lion",
+        "Parrot",
+        "Wildcat"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these species is not extinct?",
+      "correct_answer": "Komodo dragon",
+      "incorrect_answers": [
+        "Japanese sea lion",
+        "Tasmanian tiger",
+        "Saudi gazelle"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A caterpillar has more muscles than humans do.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Cats have whiskers under their legs.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+      "correct_answer": "Pugs",
+      "incorrect_answers": [
+        "Bulldogs",
+        "Boxers",
+        "Chihuahua"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+      "correct_answer": "Hemocyanin",
+      "incorrect_answers": [
+        "Cytochrome",
+        "Iron",
+        "Methionine"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Killer Whale is considered a type of dolphin.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which species is a &quot;mountain chicken&quot;?",
+      "correct_answer": "Frog",
+      "incorrect_answers": [
+        "Chicken",
+        "Horse",
+        "Fly"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the fastest animal?",
+      "correct_answer": "Peregrine Falcon",
+      "incorrect_answers": [
+        "Golden Eagle",
+        "Cheetah",
+        "Horsefly"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the collective noun for a group of crows?",
+      "correct_answer": "Murder",
+      "incorrect_answers": [
+        "Pack",
+        "Gaggle",
+        "Herd"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
+      "correct_answer": "Gooty",
+      "incorrect_answers": [
+        "Hopper",
+        "Silver Stripe",
+        "Woebegone"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "By definition, where does an abyssopelagic animal live?",
+      "correct_answer": "At the bottom of the ocean",
+      "incorrect_answers": [
+        "In the desert",
+        "On top of a mountain",
+        "Inside a tree"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is a colony of polyps and not a jellyfish?",
+      "correct_answer": "Portuguese Man-of-War",
+      "incorrect_answers": [
+        "Sea Wasp",
+        "Irukandji",
+        "Sea Nettle"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Rabbits can see what&#039;s behind themselves without turning their heads.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+      "correct_answer": "Mad Cow disease",
+      "incorrect_answers": [
+        "Weil&#039;s disease",
+        "Milk fever",
+        "Foot-and-mouth disease"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name for a male bee that comes from an unfertilized egg?",
+      "correct_answer": "Drone",
+      "incorrect_answers": [
+        "Soldier",
+        "Worker",
+        "Male"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the collective noun for rats?",
+      "correct_answer": "Mischief",
+      "incorrect_answers": [
+        "Pack",
+        "Race",
+        "Drift"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the collective noun for vultures?",
+      "correct_answer": "Wake",
+      "incorrect_answers": [
+        "Ambush",
+        "Building",
+        "Gaze"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Rabbits are carnivores.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The internet browser Firefox is named after the Red Panda.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What bird is born with claws on its wing digits?",
+      "correct_answer": "Hoatzin",
+      "incorrect_answers": [
+        "Cormorant",
+        "Cassowary",
+        "Secretary bird"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+      "correct_answer": "Krill",
+      "incorrect_answers": [
+        "Lobsters",
+        "Shrimp",
+        "Crabs"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the world&#039;s longest venomous snake?",
+      "correct_answer": "King Cobra",
+      "incorrect_answers": [
+        "Green Anaconda",
+        "Inland Taipan",
+        "Yellow Bellied Sea Snake"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The freshwater amphibian, the Axolotl, can regrow it&#039;s limbs.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    }
+  ]
+}

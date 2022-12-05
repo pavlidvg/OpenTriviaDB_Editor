@@ -1,0 +1,591 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What European country is not a part of the EU?",
+      "correct_answer": "Norway",
+      "incorrect_answers": [
+        "Lithuania",
+        "Ireland",
+        "Czechia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The body of the Egyptian Sphinx was based on which animal?",
+      "correct_answer": "Lion",
+      "incorrect_answers": [
+        "Bull",
+        "Horse",
+        "Dog"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many sovereign states are members of the United Nations?",
+      "correct_answer": "195",
+      "incorrect_answers": [
+        "201",
+        "153",
+        "178"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+      "correct_answer": "Yugoslavia",
+      "incorrect_answers": [
+        "Czechoslovakia",
+        "Abkhazia",
+        "South Ossetia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?",
+      "correct_answer": "Uzbekistan",
+      "incorrect_answers": [
+        "Switzerland",
+        "Bolivia",
+        "Ethiopia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest non-continental island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": [
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these island countries is located in the Caribbean?",
+      "correct_answer": "Barbados",
+      "incorrect_answers": [
+        "Fiji",
+        "Maldives",
+        "Seychelles"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which city is the capital of Switzerland?",
+      "correct_answer": "Bern",
+      "incorrect_answers": [
+        "Z&uuml;rich",
+        "Frankfurt",
+        "Wien"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country does Austria not border?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "Slovenia",
+        "Switzerland",
+        "Slovakia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Vatican City is a country.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Israel is 7 hours ahead of New York.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+      "correct_answer": "Samoyedic",
+      "incorrect_answers": [
+        "Hungarian",
+        "Finnish",
+        "Estonian"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+      "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+      "incorrect_answers": [
+        "Poland, Iceland, Italy, Greece, Serbia",
+        "Poland, Iceland, Italy, Greenland, Spain",
+        "Portugal, Iceland, Ireland, Greece, Serbia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the 15th letter of the Greek alphabet?",
+      "correct_answer": "Omicron (&Omicron;)",
+      "incorrect_answers": [
+        "Sigma (&Sigma;)",
+        "Pi (&Pi;)",
+        "Nu (&Nu;)"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Alaska is the largest state in the United States.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many countries does the United States share a land border with?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many countries are larger than Australia?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of the State of Washington, United States?",
+      "correct_answer": "Olympia",
+      "incorrect_answers": [
+        "Washington D.C.",
+        "Seattle",
+        "Yukon"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What event led to Liechenstein adding a crown to its flag?",
+      "correct_answer": "The 1936 Olympics",
+      "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The historical city Timbuktu is located in which West African country?",
+      "correct_answer": "Mali",
+      "incorrect_answers": [
+        "Senegal",
+        "Niger",
+        "Burkina Faso"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which German city is located on the River Isar?",
+      "correct_answer": "Munich",
+      "incorrect_answers": [
+        "Berlin",
+        "Hamburg",
+        "Dortmund"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which is the largest freshwater lake in the world?",
+      "correct_answer": "Lake Superior ",
+      "incorrect_answers": [
+        "Caspian Sea",
+        "Lake Michigan",
+        "Lake Huron"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "There are no deserts in Europe.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Fucking is a village in which country?",
+      "correct_answer": "Austria",
+      "incorrect_answers": [
+        "Germany",
+        "Switzerland",
+        "Czech Republic"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "You could walk from Norway to North Korea while only passing through Russia.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the peninsula containing Spain and Portugal?",
+      "correct_answer": "Iberian Peninsula",
+      "incorrect_answers": [
+        "European Peninsula",
+        "Peloponnesian Peninsula",
+        "Scandinavian Peninsula"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of the US State of New York?",
+      "correct_answer": "Albany",
+      "incorrect_answers": [
+        "Buffalo",
+        "New York",
+        "Rochester"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Space Needle is located in which city?",
+      "correct_answer": "Seattle",
+      "incorrect_answers": [
+        "Los Angles",
+        "Toronto",
+        "Vancouver"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Canadian national anthem?",
+      "correct_answer": "O Canada",
+      "incorrect_answers": [
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of British Columbia, Canada?",
+      "correct_answer": "Victoria",
+      "incorrect_answers": [
+        "Vancouver",
+        "Hope",
+        "Kelowna"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Canada&#039;s largest island?",
+      "correct_answer": "Baffin Island",
+      "incorrect_answers": [
+        "Prince Edward Island",
+        "Vancouver Island",
+        "Newfoundland"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Polish city known to Germans as Danzig?",
+      "correct_answer": "Gda\u0144sk",
+      "incorrect_answers": [
+        "Warsaw",
+        "Zakopane",
+        "Pozna\u0144"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Japanese islands is the biggest?",
+      "correct_answer": "Honshu",
+      "incorrect_answers": [
+        "Hokkaido",
+        "Shikoku",
+        "Kyushu"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of Belarus?",
+      "correct_answer": "Minsk",
+      "incorrect_answers": [
+        "Warsaw",
+        "Kiev",
+        "Vilnius"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of India?",
+      "correct_answer": "New Delhi",
+      "incorrect_answers": [
+        "Bejing",
+        "Montreal",
+        "Tithi"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Norway has a larger land area than Sweden.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the most populous city in the Americas in 2015?",
+      "correct_answer": "S&atilde;o Paulo",
+      "incorrect_answers": [
+        "New York",
+        "Mexico City",
+        "Los Angeles"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the capital city of Bermuda?",
+      "correct_answer": "Hamilton",
+      "incorrect_answers": [
+        "Santo Dominigo",
+        "San Juan",
+        "Havana"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What continent is the country Lesotho in?",
+      "correct_answer": "Africa",
+      "incorrect_answers": [
+        "Asia",
+        "South America",
+        "Europe"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of South Korea?",
+      "correct_answer": "Seoul",
+      "incorrect_answers": [
+        "Pyongyang",
+        "Taegu",
+        "Kitakyushu"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Scotland?",
+      "correct_answer": "Edinburgh",
+      "incorrect_answers": [
+        "Glasgow",
+        "Dundee",
+        "London"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where would you find the &quot;Spanish Steps&quot;?",
+      "correct_answer": "Rome, Italy",
+      "incorrect_answers": [
+        "Barcelona, Spain",
+        "Berlin, Germany",
+        "London, England"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Into which basin does the Jordan River flow into?",
+      "correct_answer": "Dead Sea",
+      "incorrect_answers": [
+        "Aral Sea",
+        "Caspian Sea",
+        "Salton Sea"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which country is the Taedong River in?",
+      "correct_answer": "North Korea",
+      "incorrect_answers": [
+        "South Korea",
+        "Japan",
+        "China"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is NOT a real tectonic plate?",
+      "correct_answer": "Atlantic Plate",
+      "incorrect_answers": [
+        "North American Plate",
+        "Eurasian Plate",
+        "Nazca Plate"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The longest shared border in the world can be found between which two nations?",
+      "correct_answer": "Canada and the United States",
+      "incorrect_answers": [
+        "Chile and Argentina",
+        "Russia and China",
+        "India and Pakistan"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country claims ownership of the disputed state Kosovo?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        "Croatia",
+        "Albania",
+        "Macedonia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these American cities has fewer than 1,000,000 people?",
+      "correct_answer": "San Francisco, California",
+      "incorrect_answers": [
+        "Phoenix, Arizona",
+        "San Antonio, Texas",
+        "Philadelphia, Pennsylvania"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": [
+        "Kazan",
+        "Kursk",
+        "Krasnodar"
+      ]
+    }
+  ]
+}

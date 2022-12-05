@@ -1,0 +1,579 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+      "correct_answer": "Richard Branson",
+      "incorrect_answers": [
+        "Alan Sugar",
+        "Donald Trump",
+        "Bill Gates"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does a milliner make and sell?",
+      "correct_answer": "Hats",
+      "incorrect_answers": [
+        "Shoes",
+        "Belts",
+        "Shirts"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a standard set of playing cards, which is the only king without a moustache?",
+      "correct_answer": "Hearts",
+      "incorrect_answers": [
+        "Spades",
+        "Diamonds",
+        "Clubs"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the first book of the Old Testament?",
+      "correct_answer": "Genesis",
+      "incorrect_answers": [
+        "Exodus",
+        "Leviticus",
+        "Numbers"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "correct_answer": "Key",
+      "incorrect_answers": [
+        "Sword",
+        "Pen",
+        "Cellphone"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the defining characteristic of someone who is described as hirsute?",
+      "correct_answer": "Hairy",
+      "incorrect_answers": [
+        "Rude",
+        "Funny",
+        "Tall"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In past times, what would a gentleman keep in his fob pocket?",
+      "correct_answer": "Watch",
+      "incorrect_answers": [
+        "Money",
+        "Keys",
+        "Notebook"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Coca-Cola&#039;s original colour was green.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On a dartboard, what number is directly opposite No. 1?",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "20",
+        "12",
+        "15"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American president appears on a one dollar bill?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which essential condiment is also known as Japanese horseradish?",
+      "correct_answer": "Wasabi ",
+      "incorrect_answers": [
+        "Mentsuyu",
+        "Karashi",
+        "Ponzu"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What geometric shape is generally used for stop signs?",
+      "correct_answer": "Octagon",
+      "incorrect_answers": [
+        "Hexagon",
+        "Circle",
+        "Triangle"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is &quot;dabbing&quot;?",
+      "correct_answer": "A dance",
+      "incorrect_answers": [
+        "A medical procedure",
+        "A sport",
+        "A language"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+      "correct_answer": "Yale University",
+      "incorrect_answers": [
+        "Princeton University",
+        "Harvard University",
+        "Columbia University"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "There are 86400 seconds in a day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 2013 how much money was lost by Nigerian scams?",
+      "correct_answer": "$12.7 Billion",
+      "incorrect_answers": [
+        "$95 Million",
+        "$956 Million",
+        "$2.7 Billion"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of currency in Laos?",
+      "correct_answer": "Kip",
+      "incorrect_answers": [
+        "Ruble",
+        "Konra",
+        "Dollar"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Cucumbers are usually more than 90% water.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the German word for &quot;spoon&quot;?",
+      "correct_answer": "L&ouml;ffel",
+      "incorrect_answers": [
+        "Gabel",
+        "Messer",
+        "Essst&auml;bchen"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+      "correct_answer": "Madeon",
+      "incorrect_answers": [
+        "Mat Zo",
+        "deadmau5",
+        "Zedd"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+      "correct_answer": "Big Mouth Billy Bass",
+      "incorrect_answers": [
+        "Big Billy Bass",
+        "Singing Fish",
+        "Sardeen"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Lego Group was founded in 1932.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first ever London Underground line to be built?",
+      "correct_answer": "Metropolitan Line",
+      "incorrect_answers": [
+        "Circle Line",
+        "Bakerloo Line",
+        "Victoria Line"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": [
+        "13%",
+        "20%",
+        "7%"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the website &quot;Facebook&quot; launch?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2005",
+        "2003",
+        "2006"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Santa Claus&quot; is a variety of melon.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The scientific name for the Southern Lights is Aurora Australis?",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following presidents is not on Mount Rushmore?",
+      "correct_answer": "John F. Kennedy",
+      "incorrect_answers": [
+        "Theodore Roosevelt",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+      "correct_answer": "Board Games",
+      "incorrect_answers": [
+        "Television Shows",
+        "Video Games",
+        "Films"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+      "correct_answer": "Kilt",
+      "incorrect_answers": [
+        "Skirt",
+        "Dress",
+        "Rhobes"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these words means &quot;idle spectator&quot;?",
+      "correct_answer": "Gongoozler",
+      "incorrect_answers": [
+        "Gossypiboma",
+        "Jentacular",
+        "Meupareunia"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What nuts are used in the production of marzipan?",
+      "correct_answer": "Almonds",
+      "incorrect_answers": [
+        "Peanuts",
+        "Walnuts",
+        "Pistachios"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+      "correct_answer": "Thomas Jefferson",
+      "incorrect_answers": [
+        "Martin Van Buren",
+        "Ulysses Grant",
+        "John Quincy Adams"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+      "correct_answer": "Monty Python",
+      "incorrect_answers": [
+        "The Goodies&lrm;",
+        "The League of Gentlemen&lrm;",
+        "The Penny Dreadfuls"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When someone is inexperienced they are said to be what color?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A statue of Charles Darwin sits in what London museum?",
+      "correct_answer": "Natural History Museum",
+      "incorrect_answers": [
+        "Tate",
+        "British Museum",
+        "Science Museum"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many notes are there on a standard grand piano?",
+      "correct_answer": "88",
+      "incorrect_answers": [
+        "98",
+        "108",
+        "78"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;aprosexia&quot; means which of the following?",
+      "correct_answer": "The inability to concentrate on anything",
+      "incorrect_answers": [
+        "The inability to make decisions",
+        "A feverish desire to rip one&#039;s clothes off",
+        "The inability to stand up"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+      "correct_answer": "Pale Lager",
+      "incorrect_answers": [
+        "India Pale Ale",
+        "Pilfsner",
+        "Baltic Porter"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "correct_answer": "Ad hominem",
+      "incorrect_answers": [
+        "Post hoc ergo propter hoc",
+        "Tu quoque",
+        "Argumentum ad populum"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+      "correct_answer": "Model",
+      "incorrect_answers": [
+        "Professor",
+        "Biologist",
+        "Musician"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The mitochondria is the powerhouse of the cell.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who invented the first ever chocolate bar, in 1847?",
+      "correct_answer": "Joseph Fry",
+      "incorrect_answers": [
+        "Andrew Johnson",
+        "John Cadbury",
+        "John Tyler"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+      "correct_answer": "Snivy, Tepig, Oshawott",
+      "incorrect_answers": [
+        "Snivy, Fennekin, Froakie",
+        "Chespin, Tepig, Froakie",
+        "Chespin, Fennekin, Oshawott"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Jingle Bells was originally meant for Thanksgiving",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    }
+  ]
+}

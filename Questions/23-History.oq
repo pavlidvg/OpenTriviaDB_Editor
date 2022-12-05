@@ -1,0 +1,601 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?",
+      "correct_answer": "Romantic",
+      "incorrect_answers": [
+        "Classic",
+        "Baroque",
+        "Renaissance"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+      "correct_answer": "Battle of Midway",
+      "incorrect_answers": [
+        "Attack on Truk Island",
+        "Attack on Pearl Harbor",
+        "Battle of the Coral Sea"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+      "correct_answer": "John and Mary",
+      "incorrect_answers": [
+        "Joseph and Catherine",
+        "William and Elizabeth",
+        "George and Anne"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which German field marshal was known as the `Desert Fox`?",
+      "correct_answer": "Erwin Rommel",
+      "incorrect_answers": [
+        "Ernst Busch",
+        "Wolfram Freiherr von Richthofen",
+        "Wilhelm List"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which king was killed at the Battle of Bosworth Field in 1485? ",
+      "correct_answer": "Richard III",
+      "incorrect_answers": [
+        "Edward V",
+        "Henry VII",
+        "James I"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many manned moon landings have there been?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Joseph Smith was the founder of what religion?",
+      "correct_answer": "Mormonism",
+      "incorrect_answers": [
+        "Buddhism",
+        "Christianity",
+        "Hinduism"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+      "correct_answer": "Culper Ring",
+      "incorrect_answers": [
+        "New York Spy Ring",
+        "Washington&#039;s Spies",
+        "Unnamed"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+      "correct_answer": "1923",
+      "incorrect_answers": [
+        "1903",
+        "1913",
+        "1933"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which dictator killed the most people?",
+      "correct_answer": "Mao Zedong",
+      "incorrect_answers": [
+        "Joseph Stalin",
+        "Adolf Hitler",
+        "Kim Il Sung"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+      "correct_answer": "Shamshi-Adad III",
+      "incorrect_answers": [
+        "Shalmaneser V",
+        "Esharhaddon",
+        "Ashur-nasir-pal II"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What age was King Henry V when he died?",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "62",
+        "87",
+        "73"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the United States National Security Agency established?",
+      "correct_answer": "November 4, 1952",
+      "incorrect_answers": [
+        "July 26, 1908",
+        " July 1, 1973",
+        " November 25, 2002"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was &quot;The Gadget&quot;, the first nuclear device to be detonated, tested?",
+      "correct_answer": "July 16, 1945",
+      "incorrect_answers": [
+        "June 22, 1945",
+        "August 6, 1945",
+        "April 5, 1945"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+      "correct_answer": "September 11, 1941",
+      "incorrect_answers": [
+        "June 15, 1947",
+        "January 15, 1943",
+        "September 2, 1962"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What did the first vending machines in the early 1880&#039;s dispense?",
+      "correct_answer": "Post cards",
+      "incorrect_answers": [
+        "Alcohol",
+        "Cigarettes",
+        "Sodas "
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the Battle of Agincourt take place?",
+      "correct_answer": "1415",
+      "incorrect_answers": [
+        "1463",
+        "1401",
+        "1422"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which modern day country is the region that was known as Phrygia in ancient times?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": [
+        "Syria",
+        "Greece",
+        "Egypt"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+      "correct_answer": "1990",
+      "incorrect_answers": [
+        "1992",
+        "1988",
+        "1986"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what prison was Adolf Hitler held in 1924?",
+      "correct_answer": "Landsberg Prison",
+      "incorrect_answers": [
+        "Spandau Prison",
+        "Ebrach Abbey",
+        "Hohenasperg"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was the video game company Electronic Arts founded?",
+      "correct_answer": "1982",
+      "incorrect_answers": [
+        "1999",
+        "1981",
+        "2005"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+      "correct_answer": "Philip V",
+      "incorrect_answers": [
+        "Charles V",
+        "Philip II",
+        "Francis Joseph"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the first president of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "James Madison",
+        "Thomas Jefferson",
+        "James K. Polk"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest US state?",
+      "correct_answer": "Delaware",
+      "incorrect_answers": [
+        "Rhode Island",
+        "Maine",
+        "Virginia"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first sport to have been played on the moon?",
+      "correct_answer": "Golf",
+      "incorrect_answers": [
+        "Football",
+        "Tennis",
+        "Soccer"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Battle of Hastings was fought in which year?",
+      "correct_answer": "1066",
+      "incorrect_answers": [
+        "911",
+        "1204",
+        "1420"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the first prime minister of Canada?",
+      "correct_answer": "John Macdonald",
+      "incorrect_answers": [
+        "John Abbott",
+        "Alexander Mackenzie",
+        "Robert Borden"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the United States formally declare war on Japan, entering World War II?",
+      "correct_answer": "December 8, 1941",
+      "incorrect_answers": [
+        "June 6, 1944",
+        "June 22, 1941",
+        "September 1, 1939"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the unofficial name for Germany between 1919 and 1933?",
+      "correct_answer": "Weimar Republic",
+      "incorrect_answers": [
+        "German Democratic Republic",
+        "Federal Republic of Germany",
+        "Oesterreich "
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following countries was not an axis power during World War II?",
+      "correct_answer": " Soviet Union",
+      "incorrect_answers": [
+        "Italy",
+        "Germany",
+        "Japan"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In 1939, Britain and France declared war on Germany after it invaded which country?",
+      "correct_answer": "Poland",
+      "incorrect_answers": [
+        "Czechoslovakia",
+        "Austria",
+        "Hungary"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+      "correct_answer": "The Flamingo",
+      "incorrect_answers": [
+        "The MGM Grand",
+        "The Sands",
+        "The Sahara"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "To what political party did Abraham Lincoln belong when elected POTUS?",
+      "correct_answer": "Republican",
+      "incorrect_answers": [
+        "Democrat",
+        "Independent",
+        "Whig"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did Kentucky become the 15th state to join the union?",
+      "correct_answer": "1792",
+      "incorrect_answers": [
+        "1782",
+        "1798",
+        "1788"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What year did World War I begin?",
+      "correct_answer": "1914",
+      "incorrect_answers": [
+        "1905",
+        "1919",
+        "1925"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+      "correct_answer": "Goldsboro, North Carolina",
+      "incorrect_answers": [
+        "Hicksville, New York",
+        "Jacksonville, Florida",
+        "Conway, Arkansas"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country gifted the Statue of Liberty to the United States of America?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "Spain",
+        "England",
+        "Germany"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as &quot;Skoal Bandits&quot;?",
+      "correct_answer": "1983",
+      "incorrect_answers": [
+        "1934",
+        "1984",
+        "1822"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Toussaint Louverture led a successful slave revolt in which country?",
+      "correct_answer": "Haiti",
+      "incorrect_answers": [
+        "France",
+        "Cuba",
+        "United States"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which U.S. President was in office when the Gulf War began?",
+      "correct_answer": "George H. W. Bush",
+      "incorrect_answers": [
+        "Richard Nixon",
+        "George W. Bush ",
+        "Ronald Regan"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which English king was married to Eleanor of Aquitaine?",
+      "correct_answer": "Henry II",
+      "incorrect_answers": [
+        "Richard I",
+        "Henry I",
+        "Henry V"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the first man to travel into outer space twice?",
+      "correct_answer": "Gus Grissom",
+      "incorrect_answers": [
+        "Vladimir Komarov",
+        "Charles Conrad",
+        "Yuri Gagarin"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The man that shot Alexander Hamilton was named Aaron Burr.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first Chancellor of a united Germany in 1871? ",
+      "correct_answer": "Otto Von Bismark",
+      "incorrect_answers": [
+        "Kaiser Wilhelm ",
+        "Fredrick the 2nd",
+        "Robert Koch"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The pantheon in Rome was used to worship what god?",
+      "correct_answer": "Any god they wanted",
+      "incorrect_answers": [
+        "Athena",
+        "Zeus",
+        "Both Athena and Zeus"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Abolitionist John Brown raided the arsenal in which Virginia Town?",
+      "correct_answer": "Harper&#039;s Ferry",
+      "incorrect_answers": [
+        "Richmond",
+        "Harrisonburg",
+        "Martinsburg"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+      "correct_answer": "St. Helena",
+      "incorrect_answers": [
+        "Elba",
+        "Corsica",
+        "Canary"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following physicists did NOT work on the Manhattan project?",
+      "correct_answer": "Murray Gell-Mann",
+      "incorrect_answers": [
+        "Richard Feynman",
+        "J. Robert Oppenheimer",
+        "John Von-Neumann"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?",
+      "correct_answer": "Enola Gay",
+      "incorrect_answers": [
+        "Necessary Evil",
+        "The Great Artiste",
+        "Full House"
+      ]
+    }
+  ]
+}

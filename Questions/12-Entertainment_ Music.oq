@@ -1,0 +1,597 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The music group Daft Punk got their name from a negative review they recieved.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+      "correct_answer": "Figaro",
+      "incorrect_answers": [
+        "Angelo",
+        "Fernando",
+        "Dave"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the title of ABBA`s first UK hit single?",
+      "correct_answer": "Waterloo",
+      "incorrect_answers": [
+        "Mamma Mia",
+        "Fernando",
+        "Dancing Queen"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+      "correct_answer": "The Joker",
+      "incorrect_answers": [
+        "Fandango",
+        "Take The Money and Run",
+        "Fly Like an Eagle"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+      "correct_answer": "The Front Bottoms",
+      "incorrect_answers": [
+        "Twenty One Pilots",
+        "The Wonder Years",
+        "The Smith Street Band"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the lead singer of the band Coldplay?",
+      "correct_answer": "Chris Martin",
+      "incorrect_answers": [
+        "Chris Isaak",
+        "Chris Wallace",
+        "Chris Connelly"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many members are there in the band Nirvana?",
+      "correct_answer": "Three",
+      "incorrect_answers": [
+        "Two",
+        "Four",
+        "Five"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to a Beatles song, who kept her face in a jar by the door?",
+      "correct_answer": "Eleanor Rigby",
+      "incorrect_answers": [
+        "Loretta Martin",
+        "Molly Jones",
+        "Lady Madonna"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was not in the band &quot;The Smiths&quot;?",
+      "correct_answer": "Martin Chambers",
+      "incorrect_answers": [
+        "Morrissey",
+        "Andy Rourke",
+        "Mike Joyce"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which city did American rap producer DJ Khaled originate from?",
+      "correct_answer": "Miami",
+      "incorrect_answers": [
+        "New York",
+        "Detroit",
+        "Atlanta"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Twitch streamer is the vocalist for Red Vox?",
+      "correct_answer": "Vinesauce",
+      "incorrect_answers": [
+        "The8BitDrummer",
+        "LIRIK",
+        "Sodapoppin"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+      "correct_answer": "Left Alone",
+      "incorrect_answers": [
+        "What About Us",
+        "This Song Is Not About A Girl",
+        "Drop The Game"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+      "correct_answer": "Korean",
+      "incorrect_answers": [
+        "Kenyan",
+        "Kazakhstan",
+        "Kuwaiti"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of French electronic music producer Madeon&#039;s 2015 debut studio album?",
+      "correct_answer": "Adventure",
+      "incorrect_answers": [
+        "The City",
+        "Icarus",
+        "Pop Culture"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the real name of Canadian electronic music producer deadmau5?",
+      "correct_answer": "Joel Zimmerman",
+      "incorrect_answers": [
+        "Sonny Moore",
+        "Adam Richard Wiles",
+        "Thomas Wesley Pentz"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+      "correct_answer": "Unknown Pleasures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "London Calling",
+        "The Velvet Underground &amp; Nico"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Brian May&#039;s guitar called?",
+      "correct_answer": "Red Special",
+      "incorrect_answers": [
+        "Blue Special",
+        "Green Special",
+        "Yellow Special"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What musician made the song &quot;Fuckin` Perfect&quot; in 2010?",
+      "correct_answer": "P!nk",
+      "incorrect_answers": [
+        "Mitis",
+        "Adam lambert",
+        "Koven"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which song in Drake&#039;s &quot;Views&quot; features Future?",
+      "correct_answer": "Grammys",
+      "incorrect_answers": [
+        "Too Good",
+        "Faithful",
+        "Pop Style"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+      "correct_answer": "1999",
+      "incorrect_answers": [
+        "1997",
+        "2000",
+        "1992"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "&quot;All the Boys&quot; by Panic! At the Disco was released as a bonus track on what album?",
+      "correct_answer": "Too Weird To Live, Too Rare To Die!",
+      "incorrect_answers": [
+        "A Fever You Can&#039;t Sweat Out",
+        "Death Of A Bachelor",
+        "Vices &amp; Virtues"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+      "correct_answer": "Say You Will",
+      "incorrect_answers": [
+        "Welcome to Heartbreak",
+        "Street Lights",
+        "Heartless"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the lead singer of Bastille?",
+      "correct_answer": "Dan Smith",
+      "incorrect_answers": [
+        "Will Farquarson",
+        "Kyle Simmons",
+        "Chris Wood"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many members are in the Japanese rock band SCANDAL?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "18"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT a song by Pegboard Nerds?",
+      "correct_answer": "WiFi Tears",
+      "incorrect_answers": [
+        "Swamp Thing",
+        "Emoji",
+        "BAMF"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+      "correct_answer": "Ludvig Van Beethoven",
+      "incorrect_answers": [
+        "Chief Keef",
+        "Wolfgang Amadeus Mozart",
+        "Johannes Brahms"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the lead singer and frontman of rock band R.E.M?",
+      "correct_answer": "Michael Stipe",
+      "incorrect_answers": [
+        "Chris Martin",
+        "Thom Yorke",
+        "George Michael"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+      "correct_answer": "Play",
+      "incorrect_answers": [
+        "Everything Is Wrong",
+        "Moby",
+        "18"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?",
+      "correct_answer": "Jeff Lynne&#039;s Electric Light Orchestra",
+      "incorrect_answers": [
+        "The Rolling Stones",
+        "Pink Floyd",
+        "The Who"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+      "correct_answer": "Blondie",
+      "incorrect_answers": [
+        "Paramore",
+        "Coldplay",
+        "The Police"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+      "correct_answer": "Dave Mustaine",
+      "incorrect_answers": [
+        "Rob Halford",
+        "Vince Neil",
+        "James Hetfield"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not a studio album by the band Pink Floyd?",
+      "correct_answer": "Moving Pictures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "Wish You Were Here",
+        "Animals"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+      "correct_answer": "Aqua",
+      "incorrect_answers": [
+        "Vengaboys",
+        "Eiffel 65",
+        "Sash!"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the official name of Prince&#039;s backing band?",
+      "correct_answer": "The Revolution",
+      "incorrect_answers": [
+        "The Paupers",
+        "The Wailers",
+        "The Heartbreakers"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?",
+      "correct_answer": "John Lennon",
+      "incorrect_answers": [
+        "Johnny Thunders",
+        "John Denver",
+        "John Cascella"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What date is referenced in the 1971 song &quot;September&quot; by Earth, Wind &amp; Fire?",
+      "correct_answer": "21st of September",
+      "incorrect_answers": [
+        "26th of September",
+        "23rd of September",
+        "24th of September"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was walking like an Egyptian in 1981?",
+      "correct_answer": "The Bangles",
+      "incorrect_answers": [
+        "R.E.M.",
+        "The Ocean Blue",
+        "The Connells"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many strings are there on a cello?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist curated the official soundtrack for &quot;The Hunger Games: Mockingjay - Part 1&quot;?",
+      "correct_answer": "Lorde",
+      "incorrect_answers": [
+        "Kanye West",
+        "Tove Lo",
+        "Charli XCX"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+      "correct_answer": "Paul McCartney",
+      "incorrect_answers": [
+        "Ringo Starr",
+        "John Lennon",
+        "George Harrison"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?",
+      "correct_answer": "Masta Killa",
+      "incorrect_answers": [
+        "Method Man",
+        "Inspectah Deck",
+        "GZA"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+      "correct_answer": "Snoop Dogg",
+      "incorrect_answers": [
+        "Vince Staples",
+        "Pusha T",
+        "Danny Brown"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Rivers Cuomo&#039;s wife?",
+      "correct_answer": "Kyoko Ito",
+      "incorrect_answers": [
+        "Yoko Ono",
+        "Kyary Pamyu Pamyu",
+        "LiSA"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What M83 was featured in Grand Theft Auto V&#039;s radio?",
+      "correct_answer": "Midnight City",
+      "incorrect_answers": [
+        "Outro",
+        "Reunion",
+        "Wait"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Proclaimers - I&#039;m Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+      "correct_answer": "3rd",
+      "incorrect_answers": [
+        "8th",
+        "1st",
+        "5th"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is an album by punk rock band Anti-Flag?",
+      "correct_answer": "For Blood And Empire",
+      "incorrect_answers": [
+        "Infinity On High",
+        "21st Century Breakdown",
+        "No Pads, No Helmets...Just Balls"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+      "correct_answer": "Ed Sheeran - I See Fire",
+      "incorrect_answers": [
+        "Marvin Gaye - Sexual Healing",
+        "Coldplay - Midnight",
+        "a-ha - Take On Me"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+      "correct_answer": "Wales",
+      "incorrect_answers": [
+        "Moldova",
+        "Czech Republic",
+        "Denmark"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which company did Valve cooperate with in the creation of the Vive?",
+      "correct_answer": "HTC",
+      "incorrect_answers": [
+        "Oculus",
+        "Google",
+        "Razer"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the first book of the Old Testament?",
+      "correct_answer": "Genesis",
+      "incorrect_answers": [
+        "Exodus",
+        "Leviticus",
+        "Numbers"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "correct_answer": "Key",
+      "incorrect_answers": [
+        "Sword",
+        "Pen",
+        "Cellphone"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Rolex is a company that specializes in what type of product?",
+      "correct_answer": "Watches",
+      "incorrect_answers": [
+        "Cars",
+        "Computers",
+        "Sports equipment"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Area 51 is located in which US state?",
+      "correct_answer": "Nevada",
+      "incorrect_answers": [
+        "Arizona",
+        "New Mexico",
+        "Utah"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Gumbo is a stew that originated in Louisiana.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+      "correct_answer": "Tango",
+      "incorrect_answers": [
+        "Target",
+        "Taxi",
+        "Turkey"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American president appears on a one dollar bill?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+      "correct_answer": "Yale University",
+      "incorrect_answers": [
+        "Princeton University",
+        "Harvard University",
+        "Columbia University"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "There are 86400 seconds in a day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many colors are there in a rainbow?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Red Vines is a brand of what type of candy?",
+      "correct_answer": "Licorice",
+      "incorrect_answers": [
+        "Lollipop",
+        "Chocolate",
+        "Bubblegum"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of currency in Laos?",
+      "correct_answer": "Kip",
+      "incorrect_answers": [
+        "Ruble",
+        "Konra",
+        "Dollar"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+      "correct_answer": "Spruce Goose",
+      "incorrect_answers": [
+        "Noah&#039;s Ark",
+        "Fat Man",
+        "Trojan Horse"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Swedish word for &quot;window&quot;?",
+      "correct_answer": "F&ouml;nster",
+      "incorrect_answers": [
+        "H&aring;l",
+        "Sk&auml;rm",
+        "Ruta"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Sun rises from the North.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Five dollars is worth how many nickles?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "50",
+        "25",
+        "69"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What character was once considered to be the 27th letter of the alphabet?",
+      "correct_answer": "Ampersand",
+      "incorrect_answers": [
+        "Interrobang",
+        "Tilde",
+        "Pilcrow"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Lego Group was founded in 1932.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In Scandinavian languages, the letter &Aring; means river.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "correct_answer": "150",
+      "incorrect_answers": [
+        "200",
+        "100",
+        "155"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+      "correct_answer": "Twilight Zone Tower of Terror",
+      "incorrect_answers": [
+        "The Haunted Mansion",
+        "Pirates of the Caribbean",
+        "Peter Pan&#039;s Flight"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was Bank of America originally established as?",
+      "correct_answer": "Bank of Italy",
+      "incorrect_answers": [
+        "Bank of Long Island",
+        "Bank of Pennsylvania",
+        "Bank of Charlotte"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+      "correct_answer": "Traffic Collision Avoidance System",
+      "incorrect_answers": [
+        "Traffic Communication Alert System",
+        "Traffic Configuration Alignment System",
+        "Traffic Call-sign Abbreviation System"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country drives on the left side of the road?",
+      "correct_answer": "Japan",
+      "incorrect_answers": [
+        "Germany",
+        "Russia",
+        "China"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is the IATA code for Manchester Airport?",
+      "correct_answer": "MAN",
+      "incorrect_answers": [
+        "EGLL",
+        "LHR",
+        "EGCC"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country has the most Trappist breweries?",
+      "correct_answer": "Belgium",
+      "incorrect_answers": [
+        "Netherlands",
+        "France",
+        "USA"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+      "correct_answer": "Plum",
+      "incorrect_answers": [
+        "Apple",
+        "Peach",
+        "Pear"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+      "correct_answer": "Horse",
+      "incorrect_answers": [
+        "Weave",
+        "Guitar",
+        "Boat"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When someone is inexperienced they are said to be what color?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+      "correct_answer": "St. Peter&#039;s Basilica",
+      "incorrect_answers": [
+        "Catania Cathedral",
+        "St. Mark&rsquo;s Basilica",
+        "The Duomo of Florence"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Flag of the European Union has how many stars on it?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "14",
+        "16"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+      "correct_answer": "The Shatter&#039;s",
+      "incorrect_answers": [
+        "Snake Pit",
+        "The Tomb of the Acient&#039;s",
+        "The Puppet Master&#039;s Theater"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are Panama hats made out of?",
+      "correct_answer": "Straw",
+      "incorrect_answers": [
+        "Silk",
+        "Hemp",
+        "Flax"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;abulia&quot; means which of the following?",
+      "correct_answer": "The inability to make decisions",
+      "incorrect_answers": [
+        "The inability to stand up",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one&#039;s clothes off"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;aprosexia&quot; means which of the following?",
+      "correct_answer": "The inability to concentrate on anything",
+      "incorrect_answers": [
+        "The inability to make decisions",
+        "A feverish desire to rip one&#039;s clothes off",
+        "The inability to stand up"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+      "correct_answer": "Medell&iacute;n",
+      "incorrect_answers": [
+        "Bogot&aacute;",
+        "Quito",
+        "Cali"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Frank Lloyd Wright was the architect behind what famous building?",
+      "correct_answer": "The Guggenheim",
+      "incorrect_answers": [
+        "Villa Savoye",
+        "Sydney Opera House",
+        "The Space Needle"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+      "correct_answer": "Model",
+      "incorrect_answers": [
+        "Professor",
+        "Biologist",
+        "Musician"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In aerodynamics, which force pushes an object upwards?",
+      "correct_answer": "Lift",
+      "incorrect_answers": [
+        "Drag",
+        "Weight",
+        "Thrust"
+      ]
+    }
+  ]
+}

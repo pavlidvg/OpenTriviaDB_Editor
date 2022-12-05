@@ -1,0 +1,591 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+      "correct_answer": "Acetone",
+      "incorrect_answers": [
+        "Water",
+        "Mercury",
+        "Benzene"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the colour of unoxidized blood?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "Blue",
+        "Purple",
+        "Green"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+      "correct_answer": "Iron",
+      "incorrect_answers": [
+        "Gold",
+        "Silver",
+        "Tin"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Rhinoplasty is a surgical procedure on what part of the human body?",
+      "correct_answer": "Nose",
+      "incorrect_answers": [
+        "Ears",
+        "Chin",
+        "Neck"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": [
+        "Nucleus",
+        "Chloroplast",
+        "Endoplasmic Reticulum"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the elemental symbol for mercury?",
+      "correct_answer": "Hg",
+      "incorrect_answers": [
+        "Me",
+        "Mc",
+        "Hy"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many planets are in our Solar System?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Nine",
+        "Seven",
+        "Ten"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The planet Mars has two moons orbiting it.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first living creature in space?",
+      "correct_answer": "Fruit Flies ",
+      "incorrect_answers": [
+        "Monkey",
+        "Dog",
+        "Mouse"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+      "correct_answer": "Gale",
+      "incorrect_answers": [
+        "Storm",
+        "Hurricane",
+        "Breeze"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+      "correct_answer": "8 Minutes",
+      "incorrect_answers": [
+        "6 Minutes",
+        "2 Minutes",
+        "12 Minutes"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which chemical element has the lowest boiling point?",
+      "correct_answer": "Helium",
+      "incorrect_answers": [
+        "Hydrogen",
+        "Neon",
+        "Nitrogen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "An organic compound is considered an alcohol if it has what functional group?",
+      "correct_answer": "Hydroxyl",
+      "incorrect_answers": [
+        "Carbonyl",
+        "Alkyl",
+        "Aldehyde"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which horizon in a soil profile consists of bedrock?",
+      "correct_answer": "R",
+      "incorrect_answers": [
+        "O",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the scientific name of the knee cap?",
+      "correct_answer": "Patella",
+      "incorrect_answers": [
+        "Femur",
+        "Foramen Magnum",
+        "Scapula"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is isobutylphenylpropanoic acid more commonly known as?",
+      "correct_answer": "Ibuprofen",
+      "incorrect_answers": [
+        "Morphine",
+        "Ketamine",
+        "Aspirin"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these chemical compounds is NOT found in gastric acid?",
+      "correct_answer": "Sulfuric acid",
+      "incorrect_answers": [
+        "Hydrochloric acid",
+        "Potassium chloride",
+        "Sodium chloride"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does DNA stand for?",
+      "correct_answer": "Deoxyribonucleic Acid",
+      "incorrect_answers": [
+        "Deoxyribogenetic Acid",
+        "Deoxyribogenetic Atoms",
+        "Detoxic Acid"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+      "correct_answer": "Mexico",
+      "incorrect_answers": [
+        "France",
+        "Spain",
+        "Russia"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which part of the body does glaucoma affect?",
+      "correct_answer": "Eyes",
+      "incorrect_answers": [
+        "Throat",
+        "Stomach",
+        "Blood"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The human right lung has how many lobes?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Human cells typically have how many copies of each gene?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": [
+        "Helium",
+        "Lithium",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An Astronomical Unit is the distance between Earth and the Moon.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "71% of the Earth&#039;s surface is made up of",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Deserts",
+        "Continents",
+        "Forests"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What nucleotide pairs with guanine?",
+      "correct_answer": "Cytosine",
+      "incorrect_answers": [
+        "Thymine",
+        "Adenine",
+        "Uracil"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+      "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+      "incorrect_answers": [
+        "A lack of nutrition in microenviroments",
+        "The nitrogen level in soil",
+        "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An average human can go two weeks without water.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which desert is the only desert in the world where the &quot;Saguaro&quot; cactus grows indigenously?",
+      "correct_answer": "The Sonoran Desert",
+      "incorrect_answers": [
+        "The Gobi Desert",
+        "The Yuma Desert",
+        "The Arabian Desert"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?",
+      "correct_answer": "Esteem",
+      "incorrect_answers": [
+        "Love",
+        "Safety",
+        "Physiological"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are human nails made of?",
+      "correct_answer": "Keratin",
+      "incorrect_answers": [
+        "Bone",
+        "Chitin",
+        "Calcium"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Sun consists of mostly which two elements?",
+      "correct_answer": "Hydrogen &amp; Helium",
+      "incorrect_answers": [
+        "Hydrogen &amp; Nitrogen",
+        "Carbon &amp; Nitrogen",
+        "Carbon &amp; Helium"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How long is a light-year?",
+      "correct_answer": "9.461 Trillion Kilometres",
+      "incorrect_answers": [
+        "1 AU",
+        "105.40 Earth-years",
+        "501.2 Million Miles"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "23",
+        "15",
+        "24"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 m/s",
+      "incorrect_answers": [
+        "50,461 m/s",
+        "308,215,043 m/s",
+        "751,665,014,151 m/s"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is &quot;Stenoma&quot;?",
+      "correct_answer": "A genus of moths",
+      "incorrect_answers": [
+        "A combat stimulant from WW2",
+        "A type of seasoning",
+        "A port city in the carribean"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The medial meniscus forms which part of what joint in the human body?",
+      "correct_answer": "Knee",
+      "incorrect_answers": [
+        "Elbow",
+        "Ankle",
+        "Shoulder"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+      "correct_answer": "Female Flower",
+      "incorrect_answers": [
+        "Leaves",
+        "Male Flower",
+        "Root Ball"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these choices is not one of the phases of mitosis?",
+      "correct_answer": "Diplophase",
+      "incorrect_answers": [
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Dry ice is the solid form of what substance?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Nitrogen",
+        "Ammonia",
+        "Oxygen"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a passive electrical component?",
+      "correct_answer": "Transistor",
+      "incorrect_answers": [
+        "Resistor",
+        "Capacitor",
+        "Inductor"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the study of the cells and tissues of plants and animals?",
+      "correct_answer": "Histology",
+      "incorrect_answers": [
+        "Microbiology",
+        "Anatomy",
+        "Biochemistry"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following are cells of the adaptive immune system?",
+      "correct_answer": "Cytotoxic T cells",
+      "incorrect_answers": [
+        "Dendritic cells",
+        "Natural killer cells",
+        "White blood cells"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is an alternative name for multiple personality disorder?",
+      "correct_answer": "Dissociative identity disorder",
+      "incorrect_answers": [
+        "Body integrity identity disorder",
+        "Identity crisis",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+      "correct_answer": "C18H27NO3",
+      "incorrect_answers": [
+        "C21H23NO3",
+        "C6H4Cl2",
+        "C13H25NO4"
+      ]
+    }
+  ]
+}

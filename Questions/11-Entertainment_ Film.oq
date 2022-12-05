@@ -1,0 +1,591 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following movies was not based on a novel by Stephen King? ",
+      "correct_answer": "The Thing",
+      "incorrect_answers": [
+        "Carrie",
+        "Misery",
+        "The Green Mile"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+      "correct_answer": "Aladdin",
+      "incorrect_answers": [
+        "Toy Story",
+        "James and the Giant Peach",
+        "The Hunchback of Notre Dame"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "6",
+        "1"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+      "correct_answer": "The Vikings ",
+      "incorrect_answers": [
+        "The Long Ships",
+        "Prince Valiant",
+        "Spartacus"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which retired American football quarterback played himself in &#039;Ace Ventura: Pet Detective&#039; and &#039;Little Nicky&#039;?",
+      "correct_answer": "Dan Marino",
+      "incorrect_answers": [
+        "John Elway",
+        "Tom Brady",
+        "Joe Montana"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?",
+      "correct_answer": "Jim Stark",
+      "incorrect_answers": [
+        "Ned Stark",
+        "Jim Kane",
+        "Frank Stark"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+      "correct_answer": "Guys and Dolls",
+      "incorrect_answers": [
+        "Anchors Aweigh",
+        "From Here to Eternity",
+        "High Society"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+      "correct_answer": "Gale",
+      "incorrect_answers": [
+        "Perkins",
+        "Day",
+        "Parker"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the title of the first Bond movie, released in 1962?",
+      "correct_answer": "Dr. No",
+      "incorrect_answers": [
+        "From Russia with Love",
+        "Goldfinger",
+        "Thunderball"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+      "correct_answer": "George Lucas",
+      "incorrect_answers": [
+        "Ron Howard",
+        "Francis Ford Coppola",
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+      "correct_answer": "George Clooney",
+      "incorrect_answers": [
+        "Michael Keaton",
+        "Val Kilmer",
+        "Christian Bale"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This movie contains the quote, &quot;I feel the need ... the need for speed!&quot;",
+      "correct_answer": "Top Gun",
+      "incorrect_answers": [
+        "Days of Thunder",
+        "The Color of Money",
+        "Cocktail"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;",
+      "correct_answer": "Dirty Dancing",
+      "incorrect_answers": [
+        "Three Men and a Baby",
+        "Ferris Bueller&#039;s Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The colour of the pills in the Matrix were Blue and Yellow.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What did the first moving picture depict?",
+      "correct_answer": "A galloping horse",
+      "incorrect_answers": [
+        "A woman in a dress",
+        "A man walking",
+        "A crackling fire"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?",
+      "correct_answer": "Tron",
+      "incorrect_answers": [
+        "Big Hero 6",
+        "Fantasia",
+        "Monsters, Inc."
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?",
+      "correct_answer": "Gelatin",
+      "incorrect_answers": [
+        "Dye",
+        "Paint",
+        "CGI Effect"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these films are shot entirely in one-take?",
+      "correct_answer": "Russian Ark",
+      "incorrect_answers": [
+        "Good Will Hunting",
+        "Birdman",
+        "Schindler&#039;s List"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these action movies are shot entirely in one take?",
+      "correct_answer": "Victoria",
+      "incorrect_answers": [
+        "Ip Man 2",
+        "The Bourne Legacy",
+        "L&eacute;on: The Professional"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+      "correct_answer": "Marty McFly",
+      "incorrect_answers": [
+        "Emmett &quot;Doc&quot; Brown",
+        "Biff Tannen",
+        "George McFly"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+      "correct_answer": "Air",
+      "incorrect_answers": [
+        "The Schwartz",
+        "Princess Lonestar",
+        "Meatballs"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 1999 movie Fight Club, which of these is not a rule of the &quot;fight club&quot;?",
+      "correct_answer": "Always wear a shirt",
+      "incorrect_answers": [
+        "You do not talk about FIGHT CLUB",
+        "Only two guys to a fight",
+        "Fights will go on as long as they have to"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This trope refers to minor characters that are killed off to show how a monster works.",
+      "correct_answer": "Red Shirt",
+      "incorrect_answers": [
+        "Minions",
+        "Expendables",
+        "Cannon Fodder"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+      "correct_answer": "Animalympics",
+      "incorrect_answers": [
+        "The Fox and the Hound",
+        "The Black Cauldron",
+        "The Great Mouse Detecive"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+      "correct_answer": "Gunnar Hansen",
+      "incorrect_answers": [
+        "Edwin Neal",
+        "John Dugan",
+        "Joe Bill Hogan"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Brandon Routh plays the titular character in the movie &quot;John Wick&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "George Lucas directed the entire original Star Wars trilogy.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
+      "correct_answer": "Smash Mouth",
+      "incorrect_answers": [
+        "Bowling for Soup",
+        "Sum 41",
+        "Linkin Park"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film &quot;Beyond the Sea&quot;?",
+      "correct_answer": "Bobby Darin",
+      "incorrect_answers": [
+        "Louis Armstrong",
+        "Frank Sinatra",
+        "Dean Martin"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the director of the 1991 film &quot;Silence of the Lambs&quot;?",
+      "correct_answer": "Jonathan Demme",
+      "incorrect_answers": [
+        "Stanley Kubrick",
+        "Frank Darabont",
+        "Michael Bay"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?",
+      "correct_answer": "Edgar Wright",
+      "incorrect_answers": [
+        "Phil Lord",
+        "Chris Miller",
+        "Seth Rogan"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
+      "correct_answer": "1971",
+      "incorrect_answers": [
+        "1975",
+        "1983",
+        "1969"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1993)?",
+      "correct_answer": "1992 Ford Explorer XLT",
+      "incorrect_answers": [
+        "1992 Toyota Land Cruiser",
+        "1992 Jeep Wrangler YJ Sahar",
+        "Mercedes M-Class"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+      "correct_answer": "Sigourney Weaver",
+      "incorrect_answers": [
+        "Jessica Chastain",
+        "Melissa Beckett",
+        "Alyssa Monroe "
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?",
+      "correct_answer": "Dysentery",
+      "incorrect_answers": [
+        "Anemia",
+        "Constipation",
+        "Acid Reflux "
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Mulan (1998), who is the leader of the Huns?",
+      "correct_answer": "Shan Yu",
+      "incorrect_answers": [
+        "Chien-Po",
+        "Li Shang",
+        "Fa Zhou"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+      "correct_answer": "Gopher",
+      "incorrect_answers": [
+        "Tigger",
+        "Heffalumps",
+        "Rabbit"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+      "correct_answer": "San Fransokyo",
+      "incorrect_answers": [
+        "San Tokyo",
+        "Tokysisco",
+        "Sankyo"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": [
+        "Star Wars",
+        "Gone with the Wind",
+        "Jaws"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In which film does Humphrey Bogart say the famous line, &quot;Here&#039;s looking at you, kid&quot;?",
+      "correct_answer": "Casablanca",
+      "incorrect_answers": [
+        "The Maltese Falcon",
+        "The Treasure of the Sierra Madre",
+        "Citizen Kane"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+      "correct_answer": "Bombardier Billy Wells",
+      "incorrect_answers": [
+        "Freddie Mills",
+        "Terry Spinks",
+        "Don Cockell"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?",
+      "correct_answer": "Too Agonizing",
+      "incorrect_answers": [
+        "Too Loud",
+        "Too Harsh",
+        "Too Violent"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;ALF&quot;, what was ALF&#039;s real name?",
+      "correct_answer": "Gordon Shumway",
+      "incorrect_answers": [
+        "Gordon Milipp",
+        "Gordon Foster",
+        "Gordon von Gam"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+      "correct_answer": "Elton John",
+      "incorrect_answers": [
+        "Lady Gaga",
+        "Rihanna",
+        "Justin Bieber"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 1974 Christmas flick &quot;The Year Without a Santa Claus,&quot; what are the names of the two elves who help Mrs. Claus save Christmas?",
+      "correct_answer": "Jingle &amp; Jangle",
+      "incorrect_answers": [
+        "Buddy &amp; Bobby",
+        "Holly &amp; Jolly",
+        "Snowflake &amp; Icicle"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How much money did the 2019 Marvel movie &quot;Avengers: Endgame&quot; grossed for it&#039;s record-breaking worldwide opening weekend?",
+      "correct_answer": "1.2 billion USD",
+      "incorrect_answers": [
+        "640 million USD",
+        "456 million USD",
+        "392 million USD"
+      ]
+    }
+  ]
+}

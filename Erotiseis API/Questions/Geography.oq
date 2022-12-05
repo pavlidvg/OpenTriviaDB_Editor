@@ -1,0 +1,593 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of the American state of Arizona?",
+      "correct_answer": "Phoenix",
+      "incorrect_answers": [
+        "Montgomery",
+        "Tallahassee",
+        "Raleigh"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On a London Underground map, what colour is the Circle Line?",
+      "correct_answer": "Yellow",
+      "incorrect_answers": [
+        "Red",
+        "Blue",
+        "Green"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Montreal is in which Canadian province?",
+      "correct_answer": "Quebec",
+      "incorrect_answers": [
+        "Ontario",
+        "Nova Scotia",
+        "Alberta"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the only country in the world with a flag that doesn&#039;t have four right angles?",
+      "correct_answer": "Nepal",
+      "incorrect_answers": [
+        "Panama",
+        "Angola",
+        "Egypt"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What country is the second largest in the world by area?",
+      "correct_answer": "Canada",
+      "incorrect_answers": [
+        "Russia",
+        "China",
+        "United States of America"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+      "correct_answer": "The United Kingdom",
+      "incorrect_answers": [
+        "Japan",
+        "Austrailia",
+        "Argentina"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?",
+      "correct_answer": "Uzbekistan",
+      "incorrect_answers": [
+        "Switzerland",
+        "Bolivia",
+        "Ethiopia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest non-continental island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": [
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT a city in Saudi Arabia?",
+      "correct_answer": "Dubai",
+      "incorrect_answers": [
+        "Riyadh",
+        "Mecca",
+        "Medina"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Republic of Malta is the smallest microstate worldwide.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the capital of Turkey?",
+      "correct_answer": "Ankara",
+      "incorrect_answers": [
+        "Istanbul",
+        "Izmir",
+        "Bursa"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the four corner states of the US?",
+      "correct_answer": "Utah, Colorado, Arizona, New Mexico",
+      "incorrect_answers": [
+        "Oregon, Idaho, Nevada, Utah",
+        "Kansas, Oklahoma, Arkansas, Louisiana",
+        "South Dakota, Minnesota, Nebraska, Iowa"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If soccer is called football in England, what is American football called in England?",
+      "correct_answer": "American football",
+      "incorrect_answers": [
+        "Combball",
+        "Handball",
+        "Touchdown"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+      "correct_answer": "Samoyedic",
+      "incorrect_answers": [
+        "Hungarian",
+        "Finnish",
+        "Estonian"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+      "correct_answer": "Cyprus",
+      "incorrect_answers": [
+        "Malta",
+        "Greece",
+        "Portugal"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Russian oblast forms a border with Poland?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": [
+        "Samara",
+        "Nizhny Novgorod",
+        "Omsk"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following countries does NOT recognize Armenia as an independent country?",
+      "correct_answer": "Pakistan",
+      "incorrect_answers": [
+        "Iran",
+        "Turkey",
+        "Azerbaijan"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+      "correct_answer": "Inuktitut",
+      "incorrect_answers": [
+        "Inuinnaqtun",
+        "Greenlandic",
+        "Inupiat"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following languages does NOT use the Latin alphabet?",
+      "correct_answer": "Georgian",
+      "incorrect_answers": [
+        "Turkish",
+        "Swahili",
+        "Vietnamese"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which nation claims ownership of Antarctica?",
+      "correct_answer": "No one, but there are claims.",
+      "incorrect_answers": [
+        "United States of America",
+        "United Nations",
+        "Australia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries is located the FURTHEST away from the South China Sea?",
+      "correct_answer": "Bangladesh",
+      "incorrect_answers": [
+        "Malaysia",
+        "Vietnam",
+        "Philippines"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which US state has the highest population?",
+      "correct_answer": "California",
+      "incorrect_answers": [
+        "New York",
+        "Texas",
+        "Florida"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "Kuwait",
+        "United Arab Emirates",
+        "Jordan"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest lake in the African continent?",
+      "correct_answer": "Lake Victoria",
+      "incorrect_answers": [
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Turkana"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many countries border Kyrgyzstan?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Toronto is the capital city of the North American country of Canada.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country has three capital cities?",
+      "correct_answer": "South Africa",
+      "incorrect_answers": [
+        "Somalia",
+        "China",
+        "United Kingdom"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country has the abbreviation &quot;CH&quot;?",
+      "correct_answer": "Switzerland",
+      "incorrect_answers": [
+        "China",
+        "Canada",
+        "No Country"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of the US State of New York?",
+      "correct_answer": "Albany",
+      "incorrect_answers": [
+        "Buffalo",
+        "New York",
+        "Rochester"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Space Needle is located in which city?",
+      "correct_answer": "Seattle",
+      "incorrect_answers": [
+        "Los Angles",
+        "Toronto",
+        "Vancouver"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "California is larger than Japan.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the Finnish word for &quot;Finland&quot;?",
+      "correct_answer": "Suomi",
+      "incorrect_answers": [
+        "Eesti",
+        "Magyarorsz&aacute;g",
+        "Sverige"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Canada&#039;s smallest province?",
+      "correct_answer": "Prince Edward Island",
+      "incorrect_answers": [
+        "New Brunswick",
+        "Nova Scotia",
+        "Yukon"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+      "correct_answer": "Niagara Falls",
+      "incorrect_answers": [
+        "Whistler, British Columbia",
+        "Disney World",
+        "Yosemite National Park"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of rocky region that spans most of eastern Canada?",
+      "correct_answer": "Canadian Shield",
+      "incorrect_answers": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Himalayas"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Canada&#039;s largest island?",
+      "correct_answer": "Baffin Island",
+      "incorrect_answers": [
+        "Prince Edward Island",
+        "Vancouver Island",
+        "Newfoundland"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many stars are featured on New Zealand&#039;s flag?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many countries does Mexico border?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "1"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many timezones does Russia have?",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "6",
+        "24",
+        "16"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+      "correct_answer": "103",
+      "incorrect_answers": [
+        "10",
+        "59",
+        "79"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Tokyo is the capital of Japan.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where is the &quot;Sonoran Desert&quot; located?",
+      "correct_answer": "North America",
+      "incorrect_answers": [
+        "South America",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the northernmost human settlement with year round inhabitants?",
+      "correct_answer": "Alert, Canada",
+      "incorrect_answers": [
+        "Nagurskoye, Russia",
+        "McMurdo Station, Antarctica ",
+        "Honningsv&aring;g, Norway"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The longest shared border in the world can be found between which two nations?",
+      "correct_answer": "Canada and the United States",
+      "incorrect_answers": [
+        "Chile and Argentina",
+        "Russia and China",
+        "India and Pakistan"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+      "correct_answer": "Egypt and Sudan",
+      "incorrect_answers": [
+        "Israel and Jordan",
+        "Chad and Libya",
+        "Iraq and Saudi Arabia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+      "correct_answer": "Zambia &amp; Zimbabwe",
+      "incorrect_answers": [
+        "Togo &amp; Benin",
+        "Lesotho &amp; Swaziland",
+        "Rwanda &amp; Burundi"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+      "correct_answer": "Kaliningrad",
+      "incorrect_answers": [
+        "Kazan",
+        "Kursk",
+        "Krasnodar"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the largest freshwater lake by volume?",
+      "correct_answer": "Lake Baikal",
+      "incorrect_answers": [
+        "Lake Superior",
+        "Lake Huron",
+        "Lake Michigan"
+      ]
+    }
+  ]
+}

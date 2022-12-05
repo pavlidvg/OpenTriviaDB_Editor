@@ -1,0 +1,595 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the television company BBC officially launch the channel BBC One?",
+      "correct_answer": "1936",
+      "incorrect_answers": [
+        "1948",
+        "1932",
+        "1955"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name of the police officer in the cartoon &quot;Top Cat&quot;?",
+      "correct_answer": "Dibble",
+      "incorrect_answers": [
+        "Barbrady",
+        "Mahoney",
+        "Murphy"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?",
+      "correct_answer": "Tiberius",
+      "incorrect_answers": [
+        "Trevor",
+        "Travis",
+        "Tyrone"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of Ross&#039; pet monkey on &quot;Friends&quot;?",
+      "correct_answer": "Marcel",
+      "incorrect_answers": [
+        "Jojo",
+        "George",
+        "Champ"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these characters in &quot;Stranger Things&quot; has the power of Telekinesis?",
+      "correct_answer": "Eleven",
+      "incorrect_answers": [
+        "Mike",
+        "Lucas",
+        "Karen"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which character does voice actress Tara Strong NOT voice?",
+      "correct_answer": "Bubbles (2016)",
+      "incorrect_answers": [
+        "Twilight Sparkle",
+        "Timmy Turner",
+        "Harley Quinn"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Breaking Bad, the initials W.W. refer to which of the following?",
+      "correct_answer": "Walter White",
+      "incorrect_answers": [
+        "William Wolf",
+        "Willy Wonka",
+        "Wally Walrus"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Guy&#039;s Grocery Games is hosted by which presenter?",
+      "correct_answer": "Guy Fieri",
+      "incorrect_answers": [
+        "Guy Martin",
+        "Guy Ritchie",
+        "Ainsley Harriott"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+      "correct_answer": "Essos",
+      "incorrect_answers": [
+        "Easteros",
+        "Westereast",
+        "Esuntos"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+      "correct_answer": "Should I Stay or Should I Go?",
+      "incorrect_answers": [
+        "Love Will Tear Us Apart",
+        "This Charming Man",
+        "Africa"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
+      "correct_answer": "Scotland",
+      "incorrect_answers": [
+        "England",
+        "Sweden",
+        "Germany"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+      "correct_answer": "An Unearthly Child",
+      "incorrect_answers": [
+        "The Daleks",
+        "The Aztecs",
+        "The Edge of Destruction"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these television shows makes everyone look under their chair?",
+      "correct_answer": "Oprah",
+      "incorrect_answers": [
+        "Jimmy Fallon",
+        "Saturday Night Live",
+        "Larry Rubert"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who played the sun baby in the original run of Teletubbies?",
+      "correct_answer": "Jessica Smith",
+      "incorrect_answers": [
+        "Pui Fan Lee",
+        "Sue Monroe",
+        "Lisa Brockwell"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
+      "correct_answer": "Lordgenome",
+      "incorrect_answers": [
+        "Kingloname",
+        "Lord Genome",
+        "King Loname"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the real name of the famous spanish humorist, El Risitas?",
+      "correct_answer": "Juan Joya Borga",
+      "incorrect_answers": [
+        "Gabriel Garcia Marquez",
+        "Jesus Quintero",
+        "Ernesto Guevara"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?",
+      "correct_answer": "Wolowizard",
+      "incorrect_answers": [
+        "Sheldor",
+        "Rajesh",
+        "Priya"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+      "correct_answer": "Megatron Griffin",
+      "incorrect_answers": [
+        "Who-Cares Griffin",
+        "Neil Griffin",
+        "Megan Griffin"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+      "correct_answer": "The Governor",
+      "incorrect_answers": [
+        "Negan",
+        "Rick Grimes",
+        "Daryl Dixon"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Disney shows is classified as an anime?",
+      "correct_answer": "Stitch!",
+      "incorrect_answers": [
+        "Cory in the House",
+        "The Emperor&#039;s New School",
+        "Hannah Montana"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many seasons did the TV show &quot;Donkey Kong Country&quot; last?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+      "correct_answer": "He&#039;s the big kahuna.",
+      "incorrect_answers": [
+        "To find out where all the bananas are.",
+        "Because Diddy Kong forced him.",
+        "He wants to punish brutes."
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the TV Show &quot;Donkey Kong Country&quot;, which episode did the song &quot;Eddie, Let Me Go Back To My Home&quot; play in?",
+      "correct_answer": "It&#039;s a Wonderful Life",
+      "incorrect_answers": [
+        "Message In A Bottle Show",
+        "To The Moon Baboon",
+        "Ape-Nesia"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his guardian angel?",
+      "correct_answer": "Eddie the Mean Old Yeti",
+      "incorrect_answers": [
+        "Kiddy Kong",
+        "Diddy Kong",
+        "King K. Rool"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+      "correct_answer": "Once you have their money, you never give it back. ",
+      "incorrect_answers": [
+        "Never place friendship above profit",
+        "Greed is Eternal",
+        "Never allow family to stand in the way of opportunity"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Klingons express emotion in art through opera and poetry.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the Klingon&#039;s afterlife called?",
+      "correct_answer": "Sto-vo-kor",
+      "incorrect_answers": [
+        "Valhalla",
+        "Karon&#039;gahk",
+        "New Jersey"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Star Trek&quot;, who was the founder of the Klingon Empire and its philosophy?",
+      "correct_answer": "Kahless the Unforgettable",
+      "incorrect_answers": [
+        "Lady Lukara of the Great Hall",
+        "Molor the Unforgiving",
+        "Dahar Master Kor"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In &quot;Star Trek&quot;, Klaang is a typical Klingon male.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "10",
+        "2",
+        "7"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "10",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What episode of &quot;Mr. Bean&quot; saw him trying to prevent people from seeing him naked?",
+      "correct_answer": "Mr. Bean in Room 426",
+      "incorrect_answers": [
+        "Mr. Bean Goes to Town",
+        "The Trouble with Mr. Bean",
+        "Back to School Mr. Bean"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following was not an actor/actress on the American television show &quot;Saturday Night Live&quot; in Season 42?",
+      "correct_answer": "Tina Fey",
+      "incorrect_answers": [
+        "Mikey Day",
+        "Kate McKinnon",
+        "Sasheer Zamata"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following actors portrayed the Ninth Doctor in the British television show &quot;Doctor Who&quot;?",
+      "correct_answer": "Christopher Eccleston",
+      "incorrect_answers": [
+        "David Tennant",
+        "Matt Smith",
+        "Tom Baker"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+      "correct_answer": " Bryan Cranston",
+      "incorrect_answers": [
+        "Andrew Lincoln",
+        "Aaron Paul",
+        "RJ Mitte"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following won the first season of American Idol in 2002?",
+      "correct_answer": "Kelly Clarkson",
+      "incorrect_answers": [
+        "Justin Guarini",
+        "Ruben Studdard",
+        "Chris Daughtry"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?",
+      "correct_answer": "Drew",
+      "incorrect_answers": [
+        "Jerome",
+        "Greg",
+        "Joe"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The HBO series &quot;Game of Thrones&quot; is based on which series of books?",
+      "correct_answer": "A Song of Ice and Fire",
+      "incorrect_answers": [
+        "The Wheel of Time",
+        "Harry Potter",
+        "The Notebook"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "&quot;The A Team&quot; first aired in the USA and in the UK in what year?",
+      "correct_answer": "1983",
+      "incorrect_answers": [
+        "1981",
+        "1985",
+        "1987"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which boxing personality was one of the presenters in the 1999 revival of It&#039;s a Knockout?",
+      "correct_answer": "Frank Bruno",
+      "incorrect_answers": [
+        "Henry Cooper",
+        "Muhammad Ali",
+        "Joe Fraiser"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+      "correct_answer": "Danger Mouse",
+      "incorrect_answers": [
+        "Bananaman",
+        "SuperTed",
+        "Captain Star"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the inspector in the series &quot;On the Buses&quot;?",
+      "correct_answer": "Blakey",
+      "incorrect_answers": [
+        "Harper",
+        "Naily",
+        "Gally"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was Firestorm&#039;s rival during the original run of UK Robot Wars?",
+      "correct_answer": "Panic Attack",
+      "incorrect_answers": [
+        "Razer",
+        "Chaos 2",
+        "Hypno Disc"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?",
+      "correct_answer": "David Tennant",
+      "incorrect_answers": [
+        "William Hartnell",
+        "Peter Capaldi",
+        "Peter Davison"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+      "correct_answer": "October 10th, 2010",
+      "incorrect_answers": [
+        "November 6th, 2010",
+        "April 14th, 1984",
+        "May 18th, 2015"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the race horse that Tony Soprano becomes attached to?",
+      "correct_answer": "Pie-O-My",
+      "incorrect_answers": [
+        "Man o&#039; war",
+        "Bada Bing",
+        "Honest Earnings"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the show &quot;Futurama&quot; what is Fry&#039;s full name?",
+      "correct_answer": "Philip J. Fry",
+      "incorrect_answers": [
+        "Fry J. Philip",
+        "Fry Rodr&iacute;guez",
+        "Fry Philip"
+      ]
+    }
+  ]
+}

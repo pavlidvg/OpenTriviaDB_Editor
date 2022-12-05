@@ -1,0 +1,587 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which anime heavily features music from the genre &quot;Eurobeat&quot;?",
+      "correct_answer": "Initial D",
+      "incorrect_answers": [
+        "Wangan Midnight",
+        "Kino no Tabi",
+        "Cowboy Bebop"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was given the title &quot;Full Metal&quot; in the anime series &quot;Full Metal Alchemist&quot;?",
+      "correct_answer": "Edward Elric",
+      "incorrect_answers": [
+        "Alphonse Elric",
+        "Van Hohenheim",
+        "Izumi Curtis"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; and &quot;The Boy and the Beast&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the first episode of Soul Eater released?",
+      "correct_answer": "2008",
+      "incorrect_answers": [
+        "2003",
+        "2005",
+        "2011"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.",
+      "correct_answer": "Elric",
+      "incorrect_answers": [
+        "Ellis",
+        "Eliek",
+        "Elwood"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the corgi in Cowboy Bebop?",
+      "correct_answer": "Einstein",
+      "incorrect_answers": [
+        "Edward",
+        "Rocket",
+        "Joel"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+      "correct_answer": "Eastern Police Station",
+      "incorrect_answers": [
+        "The Center Mall",
+        "Komuro&#039;s House",
+        "On The Main Bridge"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?",
+      "correct_answer": "Philippines",
+      "incorrect_answers": [
+        "India",
+        "Pakistan",
+        "Egypt"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Ash Ketchum&#039;s second Pokemon?",
+      "correct_answer": "Caterpie",
+      "incorrect_answers": [
+        "Charmander",
+        "Pikachu",
+        "Pidgey"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The manga JoJo&#039;s Bizarre Adventure is split into how many parts?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "6",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+      "correct_answer": "Giorno Giovanna",
+      "incorrect_answers": [
+        "Guido Mista",
+        "Jonathan Joestar",
+        "Joey JoJo"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In JoJo&#039;s Bizarre Adventure, winch character is able to accelerate time?",
+      "correct_answer": "Enrico Pucci",
+      "incorrect_answers": [
+        "Jotaro Kujo",
+        "Jolyne Cujoh",
+        "Kujo Jotaro"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Winch of these names are not a character of JoJo&#039;s Bizarre Adventure?",
+      "correct_answer": "JoJo Kikasu",
+      "incorrect_answers": [
+        "Jean-Pierre Polnareff",
+        "George Joestar",
+        "Risotto Nero"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main character with yellow hair in the anime Naruto?",
+      "correct_answer": "Naruto",
+      "incorrect_answers": [
+        "Ten Ten",
+        "Sasuke",
+        "Kakashi"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Gosho Aoyama Made This Series: (Detective Conan / Case Closed!)",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The anime Attack on Titan was directed by Tetsur\u014d Araki, the same person who directed the anime Highschool of the Dead.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these anime have over 7,500 episodes?",
+      "correct_answer": "Sazae-san",
+      "incorrect_answers": [
+        "Naruto",
+        "One Piece",
+        "Chibi Maruko-chan"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+      "correct_answer": "Mukuro Ikusaba",
+      "incorrect_answers": [
+        "Ryota Mitarai",
+        "Ultimate Imposter",
+        "Komaru Naegi"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+      "correct_answer": "Paranoid Android",
+      "incorrect_answers": [
+        "Sadistic Summer",
+        "Bittersweet Symphony",
+        "Mad World"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a yokai?",
+      "correct_answer": "Being run over by a truck",
+      "incorrect_answers": [
+        "Ate one too many chocobars",
+        "Through a magical ritual",
+        "When he put on the harmaki"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following manga have the most tankouban volumes?",
+      "correct_answer": "Golgo 13",
+      "incorrect_answers": [
+        "JoJo&#039;s Bizarre Adventure",
+        "Detective Conan",
+        "One Piece"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Aoi Miyamori is the production manager of what anime in &quot;Shirobako&quot;?",
+      "correct_answer": "The Third Aerial Girls Squad",
+      "incorrect_answers": [
+        "Exodus!",
+        "Andes Chucky",
+        "Angel Beats!"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Kiznaiver is an adaptation of a manga.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was studio Trigger&#039;s first original long-form animated series for television?",
+      "correct_answer": "Kill la Kill",
+      "incorrect_answers": [
+        "Kiznaiver",
+        "Inferno Cop",
+        "Gurren Lagann"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?",
+      "correct_answer": " Tracker",
+      "incorrect_answers": [
+        "Assassin",
+        "Scribe",
+        "Apprentice"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;One Piece&quot;, who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
+      "correct_answer": "Koala",
+      "incorrect_answers": [
+        "Boa Hancock",
+        "Nico Robin",
+        "Emporio Ivankov "
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+      "correct_answer": "Edward &quot;Whitebeard&quot; Newgate",
+      "incorrect_answers": [
+        "Former Marine Fleet Admiral Sengoku",
+        "Pirate King Gol D Roger",
+        "Silvers Rayleigh"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?",
+      "correct_answer": "Raditz",
+      "incorrect_answers": [
+        "Gohan",
+        "Vegeta",
+        "Bardock"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Toriko&quot;, which of the following Heavenly Kings has an enhanced sense of Hearing?",
+      "correct_answer": "Zebra",
+      "incorrect_answers": [
+        "Coco",
+        "Sunny",
+        "Toriko"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?",
+      "correct_answer": "Casey Mongillo",
+      "incorrect_answers": [
+        "Ben Diskin",
+        "Chris Niosi",
+        "David Naughton"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+      "correct_answer": "Memorze",
+      "incorrect_answers": [
+        "Deviluke",
+        "Mistletoe",
+        "Okiwana"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The &quot;To Love-Ru&quot; Manga was started in what year?",
+      "correct_answer": "2006",
+      "incorrect_answers": [
+        "2007",
+        "2004",
+        "2005"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Highschool DxD&quot;, what is the name of the item some humans are born with?",
+      "correct_answer": "Sacred Gear",
+      "incorrect_answers": [
+        "Imperial Arm",
+        "Hallowed Relic",
+        "Blessed Artifact"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+      "correct_answer": "Ursula Callistis",
+      "incorrect_answers": [
+        "Croix Meridies",
+        "Miranda Holbrook",
+        "Anne Finnelan"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza chain?",
+      "correct_answer": "Domino&#039;s",
+      "incorrect_answers": [
+        "Papa John&#039;s",
+        "Pizza Hut",
+        "Sabarro&#039;s"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Chobits, Hideki found Chii in his apartment.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What animation studio produced &quot;Gurren Lagann&quot;?",
+      "correct_answer": "Gainax",
+      "incorrect_answers": [
+        "Kyoto Animation",
+        "Pierrot",
+        "A-1 Pictures"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which manga did the &quot;404 Girl&quot; from 4chan originate from?",
+      "correct_answer": "Yotsuba&amp;!",
+      "incorrect_answers": [
+        "Azumanga Daioh",
+        "Lucky Star",
+        "Clover"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+      "correct_answer": "Satelite",
+      "incorrect_answers": [
+        "Sunrise",
+        "Xebec",
+        "Production I.G"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which studio animated Soul Eater?",
+      "correct_answer": "Bones",
+      "incorrect_answers": [
+        "Kyoto Animation",
+        "xebec",
+        "Production I.G"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the reason for the banning of episode 35 of the &quot;Pok&eacute;mon Original Series&quot; Anime?",
+      "correct_answer": "Gun Usage",
+      "incorrect_answers": [
+        "Flashing Images",
+        "Jynx",
+        "Strong Violence"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Pok&eacute;mon and it&#039;s evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+      "correct_answer": "The Porygon Line",
+      "incorrect_answers": [
+        "The Pikachu Line",
+        "The Elekid Line",
+        "The Magby Line"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the main character in One Piece?",
+      "correct_answer": "Luffy",
+      "incorrect_answers": [
+        "Shanks",
+        "Zoro",
+        "Smoker"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the Author of the manga Monster Hunter Orage?",
+      "correct_answer": "Hiro Mashima",
+      "incorrect_answers": [
+        "Shin Yamamoto",
+        "Keiichi Hikami",
+        "Hirohiko Araki"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What colour hair does the main character of the Yu-Gi-Oh! original anime series have?",
+      "correct_answer": "Red, black and yellow",
+      "incorrect_answers": [
+        "Red, yellow and green",
+        "Red, black and green",
+        "Red, purple and blue"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?",
+      "correct_answer": "Isao Takahata",
+      "incorrect_answers": [
+        "Hayao Miyazaki",
+        "Satoshi Kon",
+        "Sunao Katabuchi"
+      ]
+    }
+  ]
+}
