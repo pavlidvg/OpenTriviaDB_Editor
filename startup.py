@@ -11,11 +11,9 @@ def edit_clicked():
         title='Choose the OpenQuiz File you want to edit',
         filetypes= (("OpenQuiz Files","*.oq"),("JSON Files","*.json"),("all files","*.*"))
             )
-    try:
+    if folder_selected is not None:  # if user closes the file dialog, this does not execute
         window.destroy()
-    except:
-        pass
-    Editor.load_ui(folder_selected.name,False)
+        Editor.load_ui(folder_selected.name, False)
 
 
 
