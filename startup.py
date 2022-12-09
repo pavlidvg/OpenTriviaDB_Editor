@@ -4,6 +4,8 @@ import Editor
 
 from win32gui import FindWindow, GetWindowRect
 
+import File_management
+
 
 def edit_clicked():
     folder_selected = filedialog.askopenfile(
@@ -42,7 +44,10 @@ def name_new_file_menu():
 
 #method after button click
     def create_project():
-        filename = name.get() + ".oq"
+        proj_name = name.get()
+        if not File_management.valid_filename(proj_name):
+            return
+        filename = proj_name+ ".oq"
         if filename == ".oq":
             filename = "Untitled quiz.oq"
         name_win.destroy()

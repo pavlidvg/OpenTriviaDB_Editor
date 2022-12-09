@@ -1,8 +1,12 @@
+from pathvalidate import validate_filename, ValidationError
+
 import Editor
 import json
 import os
 import html
 import codecs
+
+
 def save_to_file(location: str):
     changes = {"response_code": 0}
 
@@ -21,11 +25,13 @@ def save_to_file(location: str):
 
             return -5
 
+
+
 def load_questions(filename : str):
     print("will now load questions")
-    with open(filename, "r+") as file:
+    with open(filename, "r+",encoding='utf-8') as file:
         data = file.read()
-        file_contents = json.loads(data)
+        file_contents = json.loads(bytes(data,'utf-8'))
 
         Editor.question_list = file_contents['results']
         return os.path.basename(filename)
@@ -41,5 +47,16 @@ def decode_unicode(question_list): # input is a byte array I THINK?
         print(i)
 
     return question_list
+
+
+def valid_filename(name:str): #checks if the given string is compatible as a save file name for windows and UNIX systems
+    try:
+        validate_filename(name)
+        return True
+    except ValidationError as e:
+        return False
+        print("{}\n".format(e))
+
+
 
 
