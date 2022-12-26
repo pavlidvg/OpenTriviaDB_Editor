@@ -120,11 +120,12 @@ def clear_fields(gui):
 
 
 def load_ui(filename,new):
-    global question_list,project_name
+    global question_list, project_name
     if not new:
         project_name = File_management.load_questions(filename)
 
     else:
+        project_name = filename
         question_list = []
 
     # loads up the UI

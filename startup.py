@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import filedialog
 import Editor
 
-from win32gui import FindWindow, GetWindowRect
+#from win32gui import FindWindow, GetWindowRect
 
 import File_management
 
@@ -33,15 +33,16 @@ def name_new_file_menu():
     name_win.title("Create a quiz - Name your quiz")
     name_win.configure(bg="#2f3136")
     name_win.grab_set()  # keeps the window in focus
-    window_handle = FindWindow(None, window.title())
-    window_rect = GetWindowRect(window_handle)  # tuple with x,y and dimensions
+   # """ window_handle = FindWindow(None, window.title())
+    #window_rect = GetWindowRect(window_handle)  # tuple with x,y and dimensions
 
     # center the popup around the middle of the screen
-    popup_x = (window_rect[0] + window_rect[2]) / 2 - y
-    print(name_win.winfo_width())
-    popup_y = (window_rect[1] + window_rect[3]) / 2 - y
+    #popup_x = (window_rect[0] + window_rect[2]) / 2 - y
+    #print(name_win.winfo_width())
+    #popup_y = (window_rect[1] + window_rect[3]) / 2 - y"""
 
-    name_win.geometry("+%d+%d" % (popup_x, popup_y))
+
+    name_win.geometry("+%d+%d" % (100, 200))
     name_win.attributes("-topmost", True)
 
 # method after button click
