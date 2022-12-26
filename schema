@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "question": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string"
+    },
+    "correct_answer": {
+      "type": "string"
+    },
+    "incorrect_answers": {
+      "type": "array",
+      "items":
+        {
+          "type": "string"
+        }
+
+    }
+  },
+  "required": [
+    "category",
+    "type",
+    "question",
+    "difficulty",
+    "correct_answer",
+    "incorrect_answers"
+  ]
+}

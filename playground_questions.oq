@@ -2,23 +2,23 @@
     "response_code": 0,
     "results": [
         {
-            "category": "Entertainment: Music",
+            "category": "Sports",
             "type": "multiple",
-            "difficulty": "medium",
-            "question": "What French artist/band is known for playing on the midi instrument \"Launchpad\"?",
-            "correct_answer": "Madeon",
+            "question": "eeep",
+            "difficulty": "easy",
+            "correct_answer": "καλα",
+            "random": "yes",
             "incorrect_answers": [
-                "Daft Punk ",
-                "Disclosure",
-                "David Guetta"
+                "οχι καλα",
+                "καθόλου καλά :("
             ]
         },
         {
             "category": "Sports",
             "type": "multiple",
-            "difficulty": "easy",
             "question": "In baseball, how many fouls are an out?",
-            "correct_answer": "0",
+            "difficulty": "easy",
+            "correct_answer": "4",
             "incorrect_answers": [
                 "5",
                 "3",
@@ -26,118 +26,58 @@
             ]
         },
         {
-            "category": "Edited",
+            "category": "Sports",
             "type": "multiple",
-            "difficulty": "hard",
-            "question": "This has been edited",
-            "correct_answer": "correct changed",
-            "incorrect_answers": [
-                "incorrect",
-                "changed",
-                "as",
-                "well"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
+            "question": "In baseball, how many fouls are an out?",
             "difficulty": "easy",
-            "question": "Who was featured in the song \"Words\" by Feint? ",
-            "correct_answer": "Laura Brehm",
-            "incorrect_answers": [
-                "Anna Yvette ",
-                "Danyka Nadeau",
-                "Veela"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "boolean",
-            "difficulty": "medium",
-            "question": "In \"Call Of Duty: Zombies\", you can upgrade the \"Apothicon Servant\" in the \"Shadows Of Evil\" map.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
             "correct_answer": "4",
             "incorrect_answers": [
-                "3",
                 "5",
-                "1"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
-            "correct_answer": "Jynx",
-            "incorrect_answers": [
-                "Electabuzz",
-                "Magmar",
-                "Rhydon"
-            ]
-        },
-        {
-            "category": "Science: Computers",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "EDITED THIS",
-            "correct_answer": "Redundant Array of Independent Disks",
-            "incorrect_answers": [
-                "Rapid Access for Indexed Devices",
-                "Range of Applications with Identical Designs",
-                "Randomized Abstract Identification Description"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Rick Astley's hit song \"Never Gonna Give You Up\" was released in what year?",
-            "correct_answer": "1987",
-            "incorrect_answers": [
-                "1985",
-                "1986",
-                "1988"
-            ]
-        },
-        {
-            "category": "Entertainment: Board Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
-            "correct_answer": "20",
-            "incorrect_answers": [
-                "30",
-                "15",
-                "25"
-            ]
-        },
-        {
-            "category": "NEW CAT",
-            "type": "multiple",
-            "question": "THIS IS NEW",
-            "difficulty": "hard",
-            "correct_answer": "NEW CORR",
-            "incorrect_answers": [
-                "NEW",
-                "WRONG",
-                "ANSWERS",
-                "42"
+                "3",
+                "2"
             ]
         },
         {
             "category": "Sports",
             "type": "multiple",
-            "question": "LIONIS PATATA",
-            "difficulty": "medium",
+            "question": "In baseball, how many fouls are an out?",
+            "difficulty": "easy",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "question": "In baseball, how many fouls are an out?",
+            "difficulty": "easy",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "question": "yooooo",
+            "difficulty": "easy",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "question": "makarooos",
+            "difficulty": "easy",
             "correct_answer": "4",
             "incorrect_answers": [
                 "5",

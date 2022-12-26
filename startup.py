@@ -13,8 +13,10 @@ def edit_clicked():
         title='Choose the OpenQuiz File you want to edit',
         filetypes= (("OpenQuiz Files","*.oq"),("JSON Files","*.json"),("all files","*.*"))
             )
-    if folder_selected is not None:  # if user closes the file dialog, this does not execute
+    if folder_selected is not None and File_management.validate_file(folder_selected.name):  # if user closes the file dialog or chooses invalid file, does not execute
         window.destroy()
+        folder_selected.close()
+
         Editor.load_ui(folder_selected.name, False)
 
 
@@ -42,7 +44,7 @@ def name_new_file_menu():
     name_win.geometry("+%d+%d" % (popup_x, popup_y))
     name_win.attributes("-topmost", True)
 
-#method after button click
+# method after button click
     def create_project():
         proj_name = name.get()
         if not File_management.valid_filename(proj_name):

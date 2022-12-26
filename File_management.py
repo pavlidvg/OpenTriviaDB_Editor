@@ -1,10 +1,11 @@
 from pathvalidate import validate_filename, ValidationError
-
+from jsonschema import validate
 import Editor
 import json
 import os
 import html
 import codecs
+
 
 
 def save_to_file(location: str):
@@ -17,24 +18,44 @@ def save_to_file(location: str):
             file.write(file_str)
             Editor.MainWindow.setWindowTitle("OpenQuiz - " + os.path.basename(location))
             Editor.changes = False  # updates the changes flag, since there are now no changes in the document
+            file.close()
 
-            return 0
+
         except Exception as e:
             print("The file saving process failed. Please try again through the editor, or contact the developer team")
             print(e)
 
-            return -5
+
+
+    return 0
+# will need better defined schema later
+def validate_file(filepath:str):
+   with open(filepath,'r+',encoding='utf-8') as file, open('schema','r+',encoding='utf-8') as schema:
+       try:
+           questionlist = json.load(file)
+           for question in questionlist['results']:
+               validate(instance=question,schema=json.load(schema))
+
+           #validate(instance=)
+       except Exception:
+           print("Validation currently doesnt work, please provide a valid schema")
+   return True
+
 
 
 
 def load_questions(filename : str):
-    print("will now load questions")
+
     with open(filename, "r+",encoding='utf-8') as file:
         data = file.read()
         file_contents = json.loads(bytes(data,'utf-8'))
+        try:
+            Editor.question_list = file_contents['results']
+        except:
+            return False
 
-        Editor.question_list = file_contents['results']
-        return os.path.basename(filename)
+        file.close()
+    return os.path.basename(filename)
 
 def decode_unicode(question_list): # input is a byte array I THINK?
     for i in question_list:
@@ -49,7 +70,7 @@ def decode_unicode(question_list): # input is a byte array I THINK?
     return question_list
 
 
-def valid_filename(name:str): #checks if the given string is compatible as a save file name for windows and UNIX systems
+def valid_filename(name:str):  #checks if the given string is compatible as a save file name for windows and UNIX systems
     try:
         validate_filename(name)
         return True

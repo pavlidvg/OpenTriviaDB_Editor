@@ -123,11 +123,9 @@ def load_ui(filename,new):
     global question_list,project_name
     if not new:
         project_name = File_management.load_questions(filename)
+
     else:
         question_list = []
-
-    print("will now print list")
-    print(question_list)
 
     # loads up the UI
     gui = scroll_test.Ui_MainWindow()
@@ -136,7 +134,7 @@ def load_ui(filename,new):
     print("set up the gui?")
     MainWindow.setWindowTitle("OpenQuiz - " + project_name)
 
-    #refactor elsewhere sometime later
+    # refactor elsewhere sometime later
     for i in question_list:
         i['question'] = html.unescape(i['question'])
         add_buttons(gui, i)
@@ -147,7 +145,7 @@ def load_ui(filename,new):
     gui.pushButton.clicked.connect(lambda : add_new_question(gui))
     gui.delete_button.clicked.connect(lambda: delete_q(gui,last_question_selected))
     gui.EditButton.clicked.connect(lambda: save_changes(gui,last_question_selected))
-
+    print("we're on file:"+filename)
     gui.actionSave.triggered.connect(lambda: File_management.save_to_file(filename))
     gui.actionSave_as.triggered.connect(save_file_as)
     gui.actionOpen.triggered.connect(lambda: open_new_file(filename,gui))
@@ -155,7 +153,7 @@ def load_ui(filename,new):
     MainWindow.show()
 
     sys.exit(app.exec_())
-    print("last line????????")
+
 
 
 # deletes the current question, doesnt  store any backups
@@ -165,7 +163,6 @@ def save_changes(gui,index):
         return
 
     indextodict = {0: "easy", 1: "medium", 2: "hard"}
-    print("one")
 
 
     question_list[index]['category'] = gui.category_input.text()
@@ -180,13 +177,11 @@ def save_changes(gui,index):
         question_list[index]['difficulty'] = 'medium'
     else:
         question_list[index]['difficulty'] = 'easy'
-    print(question_list[index]['difficulty'])
+
 
     question_list[index]['question'] = gui.question_input.toPlainText()
-    print(question_list[index]['question'])
-
     question_list[index]['correct_answer'] = gui.correct_answer_input.text()
-    print(question_list[index]['correct_answer'])
+
 
 
 
@@ -298,6 +293,7 @@ def open_new_file(current_file,gui):
     if changes:
         save_before_opening = Utilities.confirm_popup()
     if save_before_opening:
+        print("now saving on:"+current_file)
         Utilities.save_to_file(current_file)
     # Open the QDialog to get new project opened
     file_options = ["OQ Files (*.oq)", "JSON Files (*.json)"]
@@ -310,6 +306,7 @@ def open_new_file(current_file,gui):
 
     clear_fields(gui)
     changes = False
+    print(filename[0])
     reload_ui(filename[0], False, gui)
 
 
@@ -326,8 +323,10 @@ def reload_ui(filename: str, new: bool, gui: scroll_test.Ui_MainWindow):
 
     #
     MainWindow.setWindowTitle("OpenQuiz - " + project_name)
+    print("from now on were saving at:"+filename)
+    gui.actionSave.triggered.connect(lambda: File_management.save_to_file(filename))   # override old save state
 
-    #refactor elsewhere sometime later
+    # refactor elsewhere sometime later
     for i in question_list:
         i['question'] = html.unescape(i['question'])
         add_buttons(gui, i)
