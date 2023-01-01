@@ -1,11 +1,15 @@
+import os.path
 import sys
 
 from PyQt5.QtGui import QFont
 from PyQt5.QtWidgets import QPushButton, QDialog, QMessageBox
-
 from PyQt5 import QtCore, QtGui, QtWidgets
-import json
 
+import File_management
+#import File_management
+from File_management import CACHE_LOCATION
+import json
+from os import path
 
 import Editor
 
@@ -28,7 +32,6 @@ def calculate_font_size(font: QFont, button,minimum_font_size = 9):
 def save_to_file(location: str):
     questionlist = Editor.question_list
     changes = {"response_code": 0}
-
     with open(location, "w") as file:
         changes["results"] = questionlist
         try:
@@ -39,12 +42,11 @@ def save_to_file(location: str):
             file.write("The file saving process failed. Please try again through the editor, or contact the developer team")
             return -12
 
-def confirm_popup():
-    print("here?")
+def confirm_popup(title:str,text: str,informative_text: str=""):
     popup = QtWidgets.QMessageBox()
-    popup.setWindowTitle("Save changes to document")
-    popup.setText("There are unsaved changes to your document")
-    popup.setInformativeText("Do you want to save your changes?")
+    popup.setWindowTitle(title)
+    popup.setText(text)
+    popup.setInformativeText(informative_text)
     popup.icon()
     popup.setDefaultButton(QMessageBox.Yes )
     popup.addButton(QMessageBox.Yes)
@@ -57,7 +59,9 @@ def confirm_popup():
         return True
 
 
+def detect_crash():
 
+    return os.path.getsize(File_management.CACHE_LOCATION) != 0
 
 
 

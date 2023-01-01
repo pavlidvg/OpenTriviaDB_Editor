@@ -6,9 +6,26 @@ import os
 import html
 import codecs
 
+CACHE_LOCATION = "cache" # location where the contents of a non saved project are saved before a crash
+CACHE_FILE_INFO = "cached_file_info" # location of the fiel containing information on the cached project
+def update_cache():
+    try:
+
+        save_to_file(CACHE_LOCATION,cache=True)
+        with open(CACHE_FILE_INFO,'w') as info_file:
+            file_str = json.dumps({"project_name": Editor.project_name})
+            info_file.write(file_str)
 
 
-def save_to_file(location: str):
+        return True
+    except:
+        return False
+    return False
+def flush_cache():
+    open(CACHE_LOCATION,'w').close()
+    open(CACHE_FILE_INFO,'w').close()
+
+def save_to_file(location: str,cache: bool=False):
     changes = {"response_code": 0}
 
     with codecs.open(location, "w",'utf-8') as file:
@@ -16,9 +33,15 @@ def save_to_file(location: str):
         try:
             file_str = json.dumps(changes,ensure_ascii=False, indent=4)
             file.write(file_str)
-            Editor.MainWindow.setWindowTitle("OpenQuiz - " + os.path.basename(location))
-            Editor.changes = False  # updates the changes flag, since there are now no changes in the document
+            if not cache:
+                Editor.MainWindow.setWindowTitle("OpenQuiz - " + os.path.basename(location))
+                Editor.changes = False  # updates the changes flag, since there are now no changes in the document
+                flush_cache()  # no need to keep a backup of an already saved file
+            else:
+                pass
+
             file.close()
+
 
 
         except Exception as e:

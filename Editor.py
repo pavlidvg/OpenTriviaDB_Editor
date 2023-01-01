@@ -97,6 +97,7 @@ def add_new_question(gui):
     changes = True
 
 
+
     # make a JSON object to encapsulate the question
     new_q = {}
     new_q["category"] = sample_q["category"]  # can make it a one liner, but it's more organized that way
@@ -109,6 +110,7 @@ def add_new_question(gui):
 
     # add the question to the json object, by appending it on the 'results' list
     question_list.append(new_q)
+    File_management.update_cache()
 
 
 def clear_fields(gui):
@@ -120,19 +122,27 @@ def clear_fields(gui):
 
 
 def load_ui(filename,new):
-    global question_list, project_name
-    if not new:
-        project_name = File_management.load_questions(filename)
+    global project_name,question_list
+    if Utilities.detect_crash() and Utilities.confirm_popup("Previous unsaved work detected","You had unsaved work during your last session","do you want to load the old project?"):
+        cached_info = open(File_management.CACHE_FILE_INFO,'r')
+        cached_info = json.load(cached_info)
+        project_name = cached_info["project_name"]
+        File_management.load_questions(File_management.CACHE_LOCATION)
+        File_management.flush_cache()
+
+
+           #load from cache, but you dont have the old project name huh...
+
+    elif not new:
+            project_name = File_management.load_questions(filename)
 
     else:
-        project_name = filename
-        question_list = []
+            project_name = filename
+            question_list = []
 
     # loads up the UI
     gui = scroll_test.Ui_MainWindow()
-    print("loaded up the gui?")
     gui.setupUi(MainWindow)
-    print("set up the gui?")
     MainWindow.setWindowTitle("OpenQuiz - " + project_name)
 
     # refactor elsewhere sometime later
@@ -201,6 +211,7 @@ def save_changes(gui,index):
     if not changes:
         MainWindow.setWindowTitle(MainWindow.windowTitle() + " (UNSAVED CHANGES)")
     changes = True
+    File_management.update_cache()
 
 def clear_gui(gui: scroll_test.Ui_MainWindow):
 
@@ -224,6 +235,7 @@ def delete_q(gui,index):
     if not changes:
         MainWindow.setWindowTitle(MainWindow.windowTitle() + " (UNSAVED CHANGES)")
     changes = True
+    File_management.update_cache()
 
 
 #might need refactoring later if varible names change
@@ -292,7 +304,7 @@ def open_new_file(current_file,gui):
     global changes
     save_before_opening = False
     if changes:
-        save_before_opening = Utilities.confirm_popup()
+        save_before_opening = Utilities.confirm_popup(title="Save changes to document",text="There are unsaved changes to your document",informative_text="Do you want to save your changes?")
     if save_before_opening:
         print("now saving on:"+current_file)
         Utilities.save_to_file(current_file)
@@ -319,18 +331,17 @@ def reload_ui(filename: str, new: bool, gui: scroll_test.Ui_MainWindow):
     else:
         question_list = []
 
-    print("will now print list")
-    print(question_list)
 
     #
     MainWindow.setWindowTitle("OpenQuiz - " + project_name)
-    print("from now on were saving at:"+filename)
     gui.actionSave.triggered.connect(lambda: File_management.save_to_file(filename))   # override old save state
 
     # refactor elsewhere sometime later
     for i in question_list:
         i['question'] = html.unescape(i['question'])
         add_buttons(gui, i)
+
+    File_management.flush_cache()
 
 
 
