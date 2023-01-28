@@ -11,7 +11,7 @@ import sys,json
 import html.parser
 
 
-#KINDA GLOBAL LISTS. USES CAREFULLY
+#KINDA GLOBAL LISTS. USE CAREFULLY
 question_list = []
 file_contents = {}
 project_name = "sample.oq" # badcode here :(
@@ -65,6 +65,9 @@ def add_buttons(gui, question):
     #isnert the button
     new_button.clicked.connect(lambda: question_selected(gui, new_button))
     layout.insertWidget(layout_items - 1, new_button)
+    if layout_items  == 1:
+        print("only one question")
+        question_selected(gui,new_button)
 
 #adds a new button for every new question we want to add, also updates the list of question to include a new one
 def add_new_question(gui):
@@ -92,6 +95,7 @@ def add_new_question(gui):
     new_button.clicked.connect(lambda: question_selected(gui, new_button))
     layout.insertWidget(layout_items - 1, new_button)
 
+
     if not changes:
         MainWindow.setWindowTitle(MainWindow.windowTitle() + " (UNSAVED CHANGES)")
     changes = True
@@ -110,6 +114,10 @@ def add_new_question(gui):
 
     # add the question to the json object, by appending it on the 'results' list
     question_list.append(new_q)
+    # automatically select this button if it's the first button on the list (so the list was previously empty)
+    if layout_items - 1 == 0:
+        question_selected(gui,new_button)
+
     File_management.update_cache()
 
 
@@ -136,6 +144,7 @@ def load_ui(filename,new):
     elif not new:
             project_name = File_management.load_questions(filename)
 
+
     else:
             project_name = filename
             question_list = []
@@ -151,12 +160,14 @@ def load_ui(filename,new):
         add_buttons(gui, i)
 
     gui.scrollArea.setFixedWidth(gui.scrollAreaWidgetContents.maximumWidth())
+    #gui.frame.layout().itemAt(3).setBold(False)
 
     #key mappings
     gui.pushButton.clicked.connect(lambda : add_new_question(gui))
     gui.delete_button.clicked.connect(lambda: delete_q(gui,last_question_selected))
     gui.EditButton.clicked.connect(lambda: save_changes(gui,last_question_selected))
-    print("we're on file:"+filename)
+
+    # menu actions
     gui.actionSave.triggered.connect(lambda: File_management.save_to_file(filename))
     gui.actionSave_as.triggered.connect(save_file_as)
     gui.actionOpen.triggered.connect(lambda: open_new_file(filename,gui))
@@ -240,7 +251,9 @@ def delete_q(gui,index):
 
 #might need refactoring later if varible names change
 def question_selected(gui,button):
+    print("selected a q")
     global last_question_selected,last_button
+    print(last_button)
 
     if last_button != -1:
 
@@ -298,6 +311,8 @@ def save_file_as():
         project_name = filename[0]
     except FileNotFoundError:
         print("File not found, most likely because no file was selected maybe inform user")
+
+def save_init_actions(gui):
 
 
 def open_new_file(current_file,gui):

@@ -337,7 +337,7 @@ class Ui_MainWindow(object):
         self.comboBox.setItemText(2, _translate("MainWindow", "Hard"))
         self.title_label_2.setText(_translate("MainWindow", "Edit your Question"))
         self.title_label.setText(_translate("MainWindow", "Question"))
-        self.EditButton.setText(_translate("MainWindow", "Save Changes"))
+        self.EditButton.setText(_translate("MainWindow", "Edit question"))
         self.delete_button.setText(_translate("MainWindow", "Delete Question"))
         self.menuFile.setTitle(_translate("MainWindow", "File"))
         self.menuSettings.setTitle(_translate("MainWindow", "Settings"))
