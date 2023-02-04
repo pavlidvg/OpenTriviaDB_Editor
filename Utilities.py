@@ -5,9 +5,6 @@ from PyQt5.QtGui import QFont
 from PyQt5.QtWidgets import QPushButton, QDialog, QMessageBox
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-import File_management
-#import File_management
-from File_management import CACHE_LOCATION
 import json
 from os import path
 
@@ -57,11 +54,6 @@ def confirm_popup(title:str,text: str,informative_text: str=""):
     else:
         save_to_file(Editor.project_name)
         return True
-
-
-def detect_crash():
-
-    return os.path.getsize(File_management.CACHE_LOCATION) != 0
 
 
 

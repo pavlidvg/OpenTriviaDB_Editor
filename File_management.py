@@ -28,7 +28,7 @@ def flush_cache():
     open(CACHE_FILE_INFO,'w').close()
 
 def save_to_file(location: str,cache: bool=False):
-    """Saves current project info to a target file. Used to save to a system file if a user selects the 'save' or 'save as' options,
+    """Saves current project info. Saves to a system file if a user selects the 'save' or 'save as' options,
     as well as for saving a project to a cache for internal crash protection.
 
     @:param location is the string of  the target file location we want to save to. will be created if not existent
@@ -77,15 +77,21 @@ def validate_file_schema(filepath:str):
 
 def load_questions(filename : str):
     """Loads the JSON objects from a file onto the program. Assumes all the questions are stored in the 'results ' """
-    with open(filename, "r+",encoding='utf-8') as file:  # contents are read as utf-8 characters
-        data = file.read()
-        file_contents = json.loads(bytes(data,'utf-8'))
-        try:
-            Editor.question_list = file_contents['results']
-        except:
-            return False
+    try:
 
-        file.close()
+        with open(filename, "r+",encoding='utf-8') as file:  # contents are read as utf-8 characters
+            data = file.read()
+            file_contents = json.loads(bytes(data,'utf-8'))
+            try:
+                Editor.question_list = file_contents['results']
+            except:
+                return False
+
+            file.close()
+    except:
+        Editor.question_list = [] #loads up an empty list
+        return 'Questions\\' + filename
+
     return os.path.basename(filename)
 
 def decode_unicode(question_list):
@@ -96,7 +102,7 @@ def decode_unicode(question_list):
         i['type'] = html.unescape(i['type'])
         i['correct_answer'] = html.unescape(i['correct_answer'])
         i['incorrect_answers'] = html.unescape(i['incorrect_answers'])
-        print(i)
+
 
     return question_list
 
@@ -108,6 +114,10 @@ def valid_filename(name:str):  #checks if the given string is compatible as a sa
     except ValidationError as e:
         return False
         print("{}\n".format(e))
+
+def detect_crash():
+
+    return os.path.getsize(CACHE_LOCATION) != 0
 
 
 
