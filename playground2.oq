@@ -4,18 +4,6 @@
         {
             "category": "Sports",
             "type": "multiple",
-            "question": "\u03c4\u03b9 \u03bb\u03b5\u03b5\u03b9 \u03c1\u03b5 \u03bc\u03c0\u03c1\u03bf\u03ba\u03bf\u03bb\u03b5",
-            "difficulty": "easy",
-            "correct_answer": "\u03ba\u03b1\u03bb\u03b1",
-            "random": "yes",
-            "incorrect_answers": [
-                "\u03bf\u03c7\u03b9 \u03ba\u03b1\u03bb\u03b1",
-                "\u03ba\u03b1\u03b8\u03cc\u03bb\u03bf\u03c5 \u03ba\u03b1\u03bb\u03ac :("
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
             "question": "In baseball, how many fouls are an out?",
             "difficulty": "easy",
             "correct_answer": "4",
@@ -28,43 +16,7 @@
         {
             "category": "Sports",
             "type": "multiple",
-            "question": "In baseball, how many fouls are an out?",
-            "difficulty": "easy",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "5",
-                "3",
-                "2"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "question": "In baseball, how many fouls are an out?",
-            "difficulty": "easy",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "5",
-                "3",
-                "2"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "question": "saved on sfgsd",
-            "difficulty": "easy",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "5",
-                "3",
-                "2"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "question": "In baseball, how many fouls are an out?",
+            "question": "this is playground",
             "difficulty": "easy",
             "correct_answer": "4",
             "incorrect_answers": [

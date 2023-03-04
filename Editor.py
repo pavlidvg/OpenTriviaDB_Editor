@@ -1,13 +1,13 @@
 import time
 
-from PyQt5.QtGui import QFont
-from PyQt5.QtWidgets import QFileDialog, QStyleFactory, QAction
+from PyQt5.QtGui import QFont, QKeySequence
+from PyQt5.QtWidgets import QFileDialog, QStyleFactory, QAction, QShortcut
 
 import File_management
 import Utilities
 import Utilities
 import scroll_test
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtCore, QtGui, QtWidgets, Qt
 import sys, json
 import html.parser
 
@@ -135,7 +135,7 @@ def load_ui(filename, new):
         File_management.load_questions(File_management.CACHE_LOCATION)
         File_management.flush_cache()
 
-        # load from cache, but you dont have the old project name huh...
+        # load from cache, but you do not have the old project name huh...
 
     elif not new:
         project_name = File_management.load_questions(filename)
@@ -156,18 +156,24 @@ def load_ui(filename, new):
         add_buttons(gui, i)
 
     gui.scrollArea.setFixedWidth(gui.scrollAreaWidgetContents.maximumWidth())
-    # gui.frame.layout().itemAt(3).setBold(False)
+
 
     # key mappings
     gui.pushButton.clicked.connect(lambda: add_new_question(gui))
     gui.delete_button.clicked.connect(lambda: delete_q(gui, last_question_selected))
     gui.EditButton.clicked.connect(lambda: save_changes(gui, last_question_selected))
 
+    #keyboard shortcuts
+    delete_shortcut = QShortcut(QKeySequence('Ctrl+Del'),gui.frame)
+    delete_shortcut.activated.connect(lambda: delete_q(gui,last_question_selected))
+
+    add_shortcut = QShortcut(QKeySequence('Ctrl+Plus'),gui.frame)
+    add_shortcut.activated.connect(lambda: add_new_question(gui))
     # menu actions
     gui.actionSave.triggered.connect(lambda: save_file_action(filename))
     gui.actionSave_as.triggered.connect(save_file_as)
-    gui.actionOpen.triggered.connect(lambda: open_new_file(filename, gui))
-    gui.actionNew.triggered.connect(new_file_action)
+    gui.actionOpen.triggered.connect(lambda: open_file_action(filename, gui))
+    gui.actionNew.triggered.connect(lambda: new_file_action(gui,filename))
 
     MainWindow.show()
 
@@ -228,8 +234,17 @@ def delete_q(gui, index):
 
     layout = gui.frame.layout()
     layout.itemAt(index).widget().setParent(None)  # deletes the button
-    last_question_selected = -1
-    clear_fields(gui)
+    print("deleted button")
+    #last_question_selected = -1
+    #clear_fields(gui)
+    if len(question_list) == 0:
+        return
+    if index != len(question_list):
+        print("here")
+        question_selected(gui,layout.itemAt(index).widget())
+    else:
+
+        question_selected(gui,layout.itemAt(index-1).widget())
 
     if not changes:
         MainWindow.setWindowTitle(MainWindow.windowTitle() + " (UNSAVED CHANGES)")
@@ -239,9 +254,7 @@ def delete_q(gui, index):
 
 # might need refactoring later if varible names change
 def question_selected(gui, button):
-    print("selected a q")
     global last_question_selected, last_button
-    print(last_button)
 
     if last_button != -1:
         last_button.setStyleSheet("""background-color:#48608f;
@@ -286,20 +299,26 @@ def question_selected(gui, button):
     incorrect += str(question['incorrect_answers'][length - 1])
     gui.textEdit.setText(incorrect)
 
-def new_file_action(gui):
+def new_file_action(gui,filename):
+    global changes
+    save_before_exiting(filename)
     clear_gui(gui)
 
     clear_fields(gui)
     changes = False
+    reload_ui('',True,gui)
 
-    reload_ui("placeholder", False, gui)
+
+
 def save_file_action(filename: str):
     """Saves all changes to a file if the project is associated with a file. If not, opens
     the 'saves as' menu
     :param filename: the absolute path of the file associated, if it exists """
     if filename:
+        print("will now save to :"+str(filename))
         File_management.save_to_file(filename)
     else:
+        print("no filename found")
         save_file_as()
 
 def save_file_as():
@@ -308,23 +327,15 @@ def save_file_as():
     dialog = QFileDialog()
     filename = dialog.getSaveFileName(caption="Save Quiz File as",
                                       filter="OQ Files (*.oq);;JSON Files (*.json);;All Files")
-    print(filename)
     try:
         File_management.save_to_file(filename[0])
         project_name = filename[0]
     except FileNotFoundError:
-        print("File not found, most likely because no file was selected maybe inform user")
+        print("File not found, most likely because no file was selected, maybe inform user")
 
 
-def open_new_file(current_file, gui):
-    global changes
-    save_before_opening = False
-    if changes:
-        save_before_opening = Utilities.confirm_popup(title="Save changes to document",
-                                                      text="There are unsaved changes to your document",
-                                                      informative_text="Do you want to save your changes?")
-    if save_before_opening:
-        Utilities.save_to_file(current_file)
+def open_file_action(current_file, gui):
+    save_before_exiting(current_file)
 
     # Open the QDialog to get new project opened
     dialog = QFileDialog()
@@ -340,15 +351,33 @@ def open_new_file(current_file, gui):
 
 
 def reload_ui(filename: str, new: bool, gui: scroll_test.Ui_MainWindow):
-    global question_list, project_name
+    global question_list, project_name,last_question_selected,last_button
     if not new:
         project_name = File_management.load_questions(filename)
+        print("false")
+        MainWindow.setWindowTitle("OpenQuiz - " + project_name)
+        gui.actionSave.triggered.connect(lambda: save_file_action(filename))  # override old save state
     else:
         question_list = []
+        print("reloading a new ui")
+        MainWindow.setWindowTitle("OpenQuiz - Untitled_project.oq")
+        project_name = ""
+        # disconnect old save command and add new one
+        try:
+            gui.actionSave.triggered.disconnect()
+            gui.actionNew.triggered.disconnect()
+        except Exception:
+            print("problem")
+            pass
+        gui.actionSave.triggered.connect(lambda: save_file_action(project_name))
+        print("got new save action ")
+        gui.actionNew.triggered.connect(lambda: new_file_action(gui,''))
+        print("got new 'new' action")
+
 
     #
-    MainWindow.setWindowTitle("OpenQuiz - " + project_name)
-    gui.actionSave.triggered.connect(lambda: File_management.save_to_file(filename))  # override old save state
+    last_question_selected = last_button = -1
+
 
     # refactor elsewhere sometime later
     for i in question_list:
@@ -356,3 +385,16 @@ def reload_ui(filename: str, new: bool, gui: scroll_test.Ui_MainWindow):
         add_buttons(gui, i)
 
     File_management.flush_cache()
+def save_before_exiting(current_file: str):
+    """Dialog for saving all progress before exiting a project. Will save all changes to a file if the user clicks es on a popup
+    :param current_file: The file on which the changes will be saved"""
+    global changes
+    save_before_opening = False
+    print("currentfileis:")
+    print(current_file)
+    if changes:
+        save_before_opening = Utilities.confirm_popup(title="Save changes to document",
+                                                      text="There are unsaved changes to your document",
+                                                      informative_text="Do you want to save your changes?")
+    if save_before_opening:
+        save_file_action(current_file)
